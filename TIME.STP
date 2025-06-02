@@ -16,8 +16,6 @@ AFTER
 
 AGAIN
 
-AGAINST
-
 AGO
 
 ALL
@@ -62,8 +60,6 @@ B
 
 BACK
 
-BAD
-
 BE
 
 BECAME
@@ -77,8 +73,6 @@ BEEN
 BEFORE
 
 BEGAN
-
-BEHIND
 
 BEING
 
@@ -96,8 +90,6 @@ BOTH
 
 BROUGHT
 
-BUT
-
 BY
 
 C
@@ -105,10 +97,6 @@ C
 CALLED
 
 CAME
-
-CAN
-
-CANNOT
 
 CENT
 
@@ -128,15 +116,11 @@ DECIDED
 
 DECLARED
 
-DESPITE
-
 DID
 
 DO
 
 DOES
-
-DOWN
 
 DURING
 
@@ -172,19 +156,11 @@ FACED
 
 FACT
 
-FAILED
-
 FAR
-
-FELL
-
-FEW
 
 FINALLY
 
 FIND
-
-FIRST
 
 FIVE
 
@@ -209,8 +185,6 @@ GIVEN
 GO
 
 GOING
-
-GOOD
 
 GOT
 
@@ -243,8 +217,6 @@ HOUR
 HOURS
 
 HOW
-
-HOWEVER
 
 I
 
@@ -282,23 +254,11 @@ KNOWS
 
 L
 
-LACK
-
-LAST
-
 LATER
-
-LEAST
 
 LED
 
-LESS
-
 LET
-
-LIKE
-
-LITTLE
 
 LONG
 
@@ -370,27 +330,15 @@ NEEDED
 
 NEEDS
 
-NEVER
-
 NIGHT
 
-NO
-
-NOR
-
-NOT
-
 NOTE
-
-NOTHING
 
 NOW
 
 O
 
 OF
-
-OFF
 
 OFTEN
 
@@ -488,8 +436,6 @@ SEVEN
 
 SHE
 
-SHORT
-
 SHOULD
 
 SHOWED
@@ -499,8 +445,6 @@ SINCE
 SINGLE
 
 SIX
-
-SMALL
 
 SO
 
@@ -572,8 +516,6 @@ THUS
 
 TIME
 
-TINY
-
 TO
 
 TODAY
@@ -592,8 +534,6 @@ TWO
 
 U
 
-UNDER
-
 UNTIL
 
 UP
@@ -607,8 +547,6 @@ USE
 USED
 
 V
-
-VERY
 
 W
 
@@ -701,12 +639,8 @@ anterieures
 apres
 après
 as
-assez
 attendu
 au
-aucun
-aucune
-aucuns
 aujourd
 aujourd'hui
 aupres
@@ -747,16 +681,12 @@ ayez
 ayons
 b
 bah
-bas
 basee
 bat
-beau
-beaucoup
-bien
 bigre
-bon
+
 boum
-bravo
+
 brrr
 c
 car
@@ -789,13 +719,13 @@ ceux-là
 chacun
 chacune
 chaque
-cher
-chers
+
+
 chez
 chiche
 chut
-chère
-chères
+
+
 ci
 cinq
 cinquantaine
@@ -841,13 +771,7 @@ devant
 devers
 devra
 devrait
-different
-differentes
-differents
-différent
-différente
-différentes
-différents
+
 dire
 directe
 directement
@@ -889,7 +813,7 @@ elles
 elles-mêmes
 en
 encore
-enfin
+
 entre
 envers
 environ
@@ -915,7 +839,7 @@ eut
 eux
 eux-mêmes
 exactement
-excepté
+
 extenso
 exterieur
 eûmes
@@ -958,7 +882,7 @@ hi
 ho
 holà
 hop
-hormis
+
 hors
 hou
 houp
@@ -969,7 +893,7 @@ huitième
 hum
 hurrah
 hé
-hélas
+
 i
 ici
 il
@@ -1005,14 +929,13 @@ m
 ma
 maint
 maintenant
-mais
-malgre
-malgré
+
+
 maximale
 me
 meme
 memes
-merci
+
 mes
 mien
 mienne
@@ -1025,7 +948,7 @@ minimale
 moi
 moi-meme
 moi-même
-moindres
+
 moins
 mon
 mot
@@ -1040,7 +963,7 @@ naturel
 naturelle
 naturelles
 ne
-neanmoins
+
 necessaire
 necessairement
 neuf
@@ -1057,7 +980,7 @@ nous
 nous-mêmes
 nouveau
 nouveaux
-nul
+
 néanmoins
 nôtre
 nôtres
@@ -1072,7 +995,7 @@ onze
 onzième
 ore
 ou
-ouf
+
 ouias
 oust
 ouste
@@ -1103,17 +1026,12 @@ passé
 pendant
 pense
 permet
-personne
-personnes
-peu
 peut
 peuvent
 peux
-pff
-pfft
+
 pfut
-pif
-pire
+
 pièce
 plein
 plouf
@@ -1146,8 +1064,7 @@ psitt
 pu
 puis
 puisque
-pur
-pure
+
 q
 qu
 quand
@@ -1175,9 +1092,8 @@ quinze
 quoi
 quoique
 r
-rare
-rarement
-rares
+
+
 relative
 relativement
 remarquable
@@ -1186,7 +1102,7 @@ rendre
 restant
 reste
 restent
-restrictif
+
 retour
 revoici
 revoilà
@@ -1221,8 +1137,7 @@ serions
 serons
 seront
 ses
-seul
-seule
+
 seulement
 si
 sien
@@ -1248,11 +1163,9 @@ soyons
 specifique
 specifiques
 speculatif
-stop
-strictement
+
 subtiles
-suffisant
-suffisante
+
 suffit
 suis
 suit
@@ -1291,12 +1204,12 @@ toc
 toi
 toi-même
 ton
-touchant
+
 toujours
 tous
 tout
 toute
-toutefois
+
 toutes
 treize
 trente
@@ -1321,16 +1234,14 @@ uns
 v
 va
 vais
-valeur
+
 vas
 vers
 via
-vif
-vifs
+
 vingt
 vivat
-vive
-vives
+
 vlan
 voici
 voie
