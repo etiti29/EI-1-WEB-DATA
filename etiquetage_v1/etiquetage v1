@@ -1,2 +1,19 @@
-from etiquetage_v1 import pre_traitement
 
+
+def read_saved_tweets(file_path):
+    """
+    Lit un fichier JSON contenant les tweets sauvegardés et retourne le contenu sous forme de dictionnaire.
+    
+    Args:
+        file_path (str): Chemin vers le fichier JSON.
+    
+    Returns:
+        dict: Dictionnaire contenant les tweets.
+    """
+    with open(file_path, mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+    # Convertir les clés en int
+    data = {int(key): value for key, value in data.items()}
+    return data
+
+print(read_saved_tweets("brut_data.txt"))
