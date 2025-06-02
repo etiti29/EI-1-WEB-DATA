@@ -11,21 +11,35 @@ def extract_twitter_data(csv_file_path):
         dict: Dictionnaire de dictionnaires contenant les données du CSV.
     """
     twitter_data = {}
-    
-    with open(csv_file_path, mode='r', encoding='utf-8') as file:
-        reader = csv.DictReader(file)
-        for row in reader:
-            tweet_id = int(row['Tweet_ID'])
-            twitter_data[tweet_id] = {
-                'Username': row['Username'],
-                'Text': row['Text'],
-                'Retweets': int(row['Retweets']),
-                'Likes': int(row['Likes']),
-                'Timestamp': row['Timestamp']
-            }
+    index=0
+    for doc in csv_file_path:
+        """
+        with open(doc, mode='r', encoding='utf-8') as file:
+            reader = csv.DictReader(file, delimiter=';')
+            for row in reader:
+                twitter_data[index] = row['content']
+                index += 1
+        """
+        with open(doc, mode='r', encoding='utf-8-sig') as file: # 'utf-8-sig' pour gérer les BOM éventuels
+            first = file.read(1) # Lire le premier caractère pour vérifier le délimiteur
+            file.seek(0) #on remet le curseur au début du fichier
+            #2 types de fichiers : avec des guillemets ou sans => 2 types de lecteurs
+            if first == '"':
+                reader = csv.reader(file, delimiter=',', quotechar='"')
+                for row in reader:
+                    twitter_data[index] = row[1]
+                    index += 1
+            else:
+                reader = csv.DictReader(file, delimiter=';', quotechar='"')
+                for row in reader:
+                    twitter_data[index] = row['content']
+                    index += 1
+
     
     return twitter_data
 
+brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
+        
 def extract_tweets(dict):
     """
     Transforme le dictionnaire des tweets en un dictionnaire où chaque ID de tweet est associé à une liste de mots.
@@ -39,18 +53,20 @@ def extract_tweets(dict):
     tweets_words = {}
     
     for tweet_id, tweet_data in dict.items():
-        text = tweet_data['Text']
+        text = tweet_data
         words = text.split()  # Divise le texte en mots en utilisant les espaces comme séparateurs
         cleaned_words = [word.lower().rstrip('.') for word in words]
         tweets_words[tweet_id] = cleaned_words
     
     return tweets_words
 
-document = extract_twitter_data('twitter_dataset.csv')
+data = extract_tweets(brut_data)
 
-tweets = extract_tweets(document)
+#document = extract_twitter_data('twitter_dataset.csv')
 
-print(tweets[1])
+#tweets = extract_tweets(document)
+
+#print(tweets[1])
 
 #####
 
