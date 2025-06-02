@@ -1,4 +1,6 @@
 import csv
+import json
+import random
 
 def extract_twitter_data(csv_file_path):
     """
@@ -55,23 +57,23 @@ def extract_tweets(dict):
     for tweet_id, tweet_data in dict.items():
         text = tweet_data
         words = text.split()  # Divise le texte en mots en utilisant les espaces comme séparateurs
-        cleaned_words = [word.lower().rstrip('.') for word in words]
+        cleaned_words = [word.lower().rstrip('.?,!') for word in words]
         tweets_words[tweet_id] = cleaned_words
     
     return tweets_words
 
 data = extract_tweets(brut_data)
+#print(data[0])  # Affiche les mots du tweet avec l'ID 1
 
-#document = extract_twitter_data('twitter_dataset.csv')
+"""
+# Sauvegarder le dictionnaire dans un fichier texte
+with open('tweets_words.txt', mode='w', encoding='utf-8') as file:
+    json.dump(data, file, ensure_ascii=False, indent=4)
 
-#tweets = extract_tweets(document)
-
-#print(tweets[1])
+print("Le dictionnaire a été sauvegardé dans tweets_words.txt")
+"""
 
 #####
-
-
-import random
 
 def partition_random(N):
     # Ensemble complet des entiers de 0 à N
