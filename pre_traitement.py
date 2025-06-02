@@ -98,3 +98,22 @@ print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment b
 
 
 ####
+def read_saved_tweets(file_path):
+    """
+    Lit un fichier JSON contenant les tweets sauvegardés et retourne le contenu sous forme de dictionnaire.
+    
+    Args:
+        file_path (str): Chemin vers le fichier JSON.
+    
+    Returns:
+        dict: Dictionnaire contenant les tweets.
+    """
+    with open(file_path, mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+    # Convertir les clés en int
+    data = {int(key): value for key, value in data.items()}
+    return data
+
+# Exemple d'utilisation
+tweets_words = read_saved_tweets('data.txt')
+print(tweets_words[0])  # Affiche les mots du tweet avec l'ID 0
