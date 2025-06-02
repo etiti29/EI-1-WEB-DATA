@@ -65,13 +65,15 @@ def extract_tweets(dict):
 data = extract_tweets(brut_data)
 #print(data[0])  # Affiche les mots du tweet avec l'ID 1
 
-"""
+
 # Sauvegarder le dictionnaire dans un fichier texte
-with open('tweets_words.txt', mode='w', encoding='utf-8') as file:
+with open('brut_data.txt', mode='w', encoding='utf-8') as file:
+    json.dump(brut_data, file, ensure_ascii=False, indent=4)
+with open('data.txt', mode='w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
 
-print("Le dictionnaire a été sauvegardé dans tweets_words.txt")
-"""
+print("Les dictionnaires ont été sauvegardés.txt")
+
 
 #####
 
