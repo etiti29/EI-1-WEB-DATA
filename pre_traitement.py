@@ -51,3 +51,30 @@ document = extract_twitter_data('twitter_dataset.csv')
 tweets = extract_tweets(document)
 
 print(tweets[1])
+
+#####
+
+
+import random
+
+def partition_random(N):
+    # Ensemble complet des entiers de 0 à N
+    full_list = list(range(N+1))
+    random.shuffle(full_list)
+    
+    taille_70 = int(0.7 * (N+1))
+    taille_20 = int(0.2 * (N+1))
+    taille_10 = (N+1) - taille_70 - taille_20  # pour que la somme soit exacte
+    
+    list_70 = full_list[:taille_70]
+    list_20 = full_list[taille_70:taille_70+taille_20]
+    list_10 = full_list[taille_70+taille_20:]
+    
+    return list_70, list_20, list_10
+
+l70, l20, l10 = partition_random(100)
+print(len(l70), len(l20), len(l10))  # Devrait afficher environ 71 20 10 (car 0 à 100 = 101 éléments)
+print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment bien une partition
+
+
+####
