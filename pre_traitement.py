@@ -1,4 +1,4 @@
-import csv
+'''import csv
 import json
 import random
 
@@ -136,4 +136,33 @@ def partition_random(N):
 
 #l70, l20, l10 = partition_random(100)
 #print(len(l70), len(l20), len(l10))  # Devrait afficher environ 71 20 10 (car 0 à 100 = 101 éléments)
-#print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment bien une partition
+#print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment bien une partition'''
+
+import pandas as pd
+
+import json
+
+# Charger le CSV
+df = pd.read_csv('Data_2_etiquete/tweets_foot.csv', encoding='latin1')
+# Construire le dictionnaire de dictionnaires
+tweets_dict = {
+    row['tweet_id']: {
+        'tweet_text': row['tweet_text'],
+        'sentiment': row['sentiment']
+    }
+    for _, row in df.iterrows()
+}
+
+
+#print(tweets_dict)  # Afficher le dictionnaire de dictionnaires
+
+
+# Supposons que tweets_dict existe déjà
+# tweets_dict = { ... }
+
+# 1. Ouvrir (ou créer) le fichier TXT en écriture
+with open('tweets_dict.txt', 'w', encoding='utf-8') as f:
+    # 2. Sérialiser le dictionnaire au format JSON avec indent pour lisibilité
+    json.dump(tweets_dict, f, ensure_ascii=False, indent=4)
+
+print("Export terminé : 'tweets_dict.txt' créé.")
