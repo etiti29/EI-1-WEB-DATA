@@ -1,0 +1,1347 @@
+{
+    "0": {
+        "tweet": "y'a un mec i m'a appris comment se soigner du cancer avec du citron et eu bicarbonate chepa quoi",
+        "score": 2,
+        "label": "neutre"
+    },
+    "1": {
+        "tweet": "Article de 2010, mais toujours d'actualité « Ils ont voulu soigner son cancer avec du citron » http://www.leparisien.fr/societe/ils-ont-voulu-soigner-son-cancer-avec-du-citron-13-01-2010-774876.php … /!\\ c'est violent",
+        "score": 1,
+        "label": "negatif"
+    },
+    "2": {
+        "tweet": "La combinaison citron-bicarbonate de soude contre le Cancer : Savez-vous combien de gens meurent alors que ce... http://fb.me/4yzHG9Xju ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "3": {
+        "tweet": "Le jus de citron est 10 000 fois plus efficace contre le cancer chimiothérapeutique. Peruanos En Bélgica Bis http://fb.me/1J7EBaJwC ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "4": {
+        "tweet": "Le citron aussi soignerait le cancer, mon amie préfère les rayons",
+        "score": 1,
+        "label": "negatif"
+    },
+    "5": {
+        "tweet": "@MisterEnzor Cancer=> Prend du jus du citron",
+        "score": 2,
+        "label": "neutre"
+    },
+    "6": {
+        "tweet": "@Mart4400 Le même site prétend que le jus de carotte guérit le cancer, idem pour le mélange citron-bicarbonate de sodium. @UnHommedeGauche",
+        "score": 1,
+        "label": "negatif"
+    },
+    "7": {
+        "tweet": "Cancer: le citron et le bicarbonate de soude plus puissants que la chimiothérapie - http://Marichesse.com  http://fb.me/7K5z0we5h ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "8": {
+        "tweet": "Cancer: le citron et le bicarbonate de soude plus puissants que la chimiothérapie - http://Marichesse.com  http://fb.me/7rGagFEq2 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "9": {
+        "tweet": "Cancer: le citron et le bicarbonate de soude plus puissants que la chimiothérapie - http://Marichesse.com  http://fb.me/5nyKYAuAk ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "10": {
+        "tweet": "Vénicia Stelle Victoire Guinot vrai or faux http://fb.me/6zN4G8iEJ ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "11": {
+        "tweet": "Cancer: le citron et le bicarbonate de soude plus puissants que la chimiothérapie http://www.marichesse.com/2015/07/cancer-le-citron-et-le-bicarbonate-de-soude-plus-puissants-que-la-chimiotherapie.html … #CANCER #SANTE-BIEN-ETRE",
+        "score": 2,
+        "label": "neutre"
+    },
+    "12": {
+        "tweet": "Le #hoax des citrons 10000 fois plus puissant que la chimiothérapie. http://fb.me/7mSwZmf3W ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "13": {
+        "tweet": "Les gens qui utilisent zit zitoune et citron pour bronzer vous voulais grave le cancer vous",
+        "score": 1,
+        "label": "negatif"
+    },
+    "14": {
+        "tweet": "Des alternatives pour combattre le cancer... http://fb.me/6wJSZfLtD ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "15": {
+        "tweet": "Je veux bien que ce soit désaltérant et kiffant, mais ne comptez pas sur ces trucs de grand-mère contre le cancer. http://www.hoaxbuster.com/hoaxliste/cancer-citron …",
+        "score": 3,
+        "label": "positif"
+    },
+    "16": {
+        "tweet": "#santé #citron #cancer Pourquoi vous devriez congeler vos citrons http://wp.me/p4SkmG-rX  via @wordpressdotcom",
+        "score": 2,
+        "label": "neutre"
+    },
+    "17": {
+        "tweet": "Je bois du citron les matins pour ne pas avoir le cancer de l'estomac. Moi qui croyais qu'il fallait exposer de l'eau à la lune! @Dr_FEES",
+        "score": 1,
+        "label": "negatif"
+    },
+    "18": {
+        "tweet": "Les bienfaits du citron et de la lime contre le concer Cancer (prévention). Plusieurs études ont démontré que la... http://fb.me/3Rs7bRK0T ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "19": {
+        "tweet": "la médecine alternative est un complément à la médecine conventionnelle!!! quand la force vital est engager la... http://fb.me/3I3510F69 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "20": {
+        "tweet": "Donner de l'espoir et la moitié des membres de l'EI le quitteront. Nicolas Hénin, #ONPC oui! Et le jus de citron frais soigne le cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "21": {
+        "tweet": "@KavenBrassard @YTherrien @KimAuclair Crédules, tu veux dire? Leur problème. Y'en a qui pensent que le citron guérit le cancer itou.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "22": {
+        "tweet": "#Sig #Santé #Sénégal: Remède Naturel a base de citron contre Hépatite, cancer, diabète et hypertension viaRT @RTS1_Senegal",
+        "score": 2,
+        "label": "neutre"
+    },
+    "23": {
+        "tweet": "Actu santé : CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "24": {
+        "tweet": "Tous les jours on nous parle d'un produit naturel qui détruit les cellules cancéreuses. Le cancer continue à avancer http://www.espritsciencemetaphysiques.com/personne-saine-idee-congeler-un-citron.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "25": {
+        "tweet": "Senior:Prostate>Pourquoi devriez-vous boire une tasse de thé au citron et au gingembre tous les jours ?... http://bit.ly/1GsCCOT  #medecine",
+        "score": 2,
+        "label": "neutre"
+    },
+    "26": {
+        "tweet": "#Cesti Reméde Naturel a base de citron contre Hépatite, cancer, diabète et hypertension http://fb.me/7c0IcMQGZ ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "27": {
+        "tweet": "Santé:Reméde Naturel a base de citron contre Hépatite, cancer, diabète et hypertension. http://alloinfos.com/santeremede-naturel-a-base-de-citron-contre-hepatite-cancer-diabete-et-hypertension/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "28": {
+        "tweet": "avec des réflexions genre moi je prend de l'au avec du citron ts les matins et je n'ai pas eu le cancer ou ma maladie s'est déclaré 2/",
+        "score": 2,
+        "label": "neutre"
+    },
+    "29": {
+        "tweet": "@Damss_Lhnf @CalifeA @_Lilouuu @Gendarmerie Abdel il fout le seum avc son orange citron menthe il veut chopper quel genre de cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "30": {
+        "tweet": "Lundi @telematintv Faune @natacha_harry Centre #Cancer Chien chat Gourmand @ctgourmand Beurre huile aromatisée citron",
+        "score": 2,
+        "label": "neutre"
+    },
+    "31": {
+        "tweet": "- g 1 cancer - Prends un thé citron ça détoxifie #LT",
+        "score": 1,
+        "label": "negatif"
+    },
+    "32": {
+        "tweet": "#Cancer, prix Nobel et citron, une histoire bizarre http://buff.ly/1LHuU8a ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "33": {
+        "tweet": "#Santé #Etude #Thé #Citron #Antioxydant #Cancer #Crise_ardiaque #AVC Une nouvelle étude vient de révéler que le... http://fb.me/1BXr0RM9m ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "34": {
+        "tweet": "#Santé #Etude #Thé #Citron #Antioxydant #Cancer #Crise_ardiaque #AVC Une nouvelle étude vient de révéler que le... http://fb.me/1MGmO3HNi ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "35": {
+        "tweet": "Santé , Etude : Le thé au citron, remède miracle contre le cancer http://dlvr.it/8JpW2T ",
+        "score": 3,
+        "label": "positif"
+    },
+    "36": {
+        "tweet": "Les extraordinaires vertus du citron - Le citron, ennemi N°1 du cancer... L’Institut de Sciences de la… http://photosdetout.over-blog.com/article-les-extraordinaires-vertus-du-citron-99607008.html#fromTwitter …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "37": {
+        "tweet": "@cassius_elvis goût citron vert c'est grave bon tant pis pour le cancer ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "38": {
+        "tweet": "BON A SAVOIR. http://fb.me/6ZY7OVFDT ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "39": {
+        "tweet": "Pourquoi le citron ne guérit pas le cancer ? http://fb.me/4KQBkuwDg ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "40": {
+        "tweet": "Le citron soigne du cancer omg tro lol (poke @lepharmachien) http://swagactu.com/ajoutez-un-seul-ingredient-dans-votre-verre-deau-pour-proteger-votre-coeur.html …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "41": {
+        "tweet": "Le jus de citron est 10 000 fois plus efficace contre le cancer chimiothérapeutique. Peruanos En Bélgica Bis http://fb.me/1J7EBaJwC ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "42": {
+        "tweet": "http://lesbrindherbes.org/2013/03/28/le-citron-un-aliment-anti-cancer-canular-ou-verite/ … CITRON PLEIN DE VERTUS, ET NE PEUT FAIRE DE MAL...VOYEZ CE LIEN...",
+        "score": 2,
+        "label": "neutre"
+    },
+    "43": {
+        "tweet": "Anti-cancer : placez votre citron dans votre congélateur, puis râpez-le sur votre repas à tous les jours =10.000 fois plus puissant k médoc",
+        "score": 2,
+        "label": "neutre"
+    },
+    "44": {
+        "tweet": "Moins puissant que l'eau sucrée, on y apprend néanmoins que le mélange betterave-carotte-pomme-citron fait un malheur au cancer. #TP",
+        "score": 1,
+        "label": "negatif"
+    },
+    "45": {
+        "tweet": "Jus de citron => déjà guéri. C'est à ça qu'on voit qu'on est des garçons en pleine santé, en 6 heures on guérit d'un cancer de la gorge.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "46": {
+        "tweet": "Citron et de la bicarbonate de sodium - 10 000 fois plus efficace que la chimiothérapie contre le cancer ...... http://fb.me/42DwpmuAM ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "47": {
+        "tweet": "La boisson miracle qui empêche la propagation du cancer. 1 betterave 1 carotte 1 pomme et 1 citron http://fb.me/3HT5FybiF ",
+        "score": 3,
+        "label": "positif"
+    },
+    "48": {
+        "tweet": "Actu santé : CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "49": {
+        "tweet": "Connaissiez-vous l'effet protecteur du thé noir au citron contre le cancer de l'ovaire ? http://fb.me/1LXTkCZXG ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "50": {
+        "tweet": "Le thé noir au citron serait efficace pour se protéger du cancer de l'ovaire✽http://ift.tt/1paHO6O  #rtl #belgique",
+        "score": 2,
+        "label": "neutre"
+    },
+    "51": {
+        "tweet": "Le thé noir au citron serait efficace pour se protéger du cancer de l'ovaire http://fb.me/4jlfuCi6I ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "52": {
+        "tweet": "{SANTE} Le #thé au citron, un allié #anticancer pour les femmes http://bit.ly/1wNjDO4 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "53": {
+        "tweet": "Du thé noir au citron pour se protéger du #cancer de l'ovaire http://bit.ly/1rVQXf4  via @Topsantecom",
+        "score": 2,
+        "label": "neutre"
+    },
+    "54": {
+        "tweet": "Le thé noir au citron serait efficace pour se protéger du #cancer de l'ovaire http://www.topsante.com/medecine/cancers/cancer-des-ovaires/prevenir/le-the-noir-au-citron-serait-efficace-pour-se-proteger-du-cancer-de-l-ovaire-72831 … via @topsantecom",
+        "score": 2,
+        "label": "neutre"
+    },
+    "55": {
+        "tweet": "Du thé noir au citron pour se protéger du cancer de l'ovaire http://bit.ly/1rVQXf4 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "56": {
+        "tweet": "Le thé noir au citron serait efficace pour se protéger du cancer de l'ovaire http://www.topsante.com/medecine/cancers/cancer-des-ovaires/prevenir/le-the-noir-au-citron-serait-efficace-pour-se-proteger-du-cancer-de-l-ovaire-72831 …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "57": {
+        "tweet": "Les femmes pourraient se protéger du cancer de l'ovaire en modifiant leur alimentation, selon une nouvelle étude... http://fb.me/3qQlRirPo ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "58": {
+        "tweet": "Actu santé : CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "59": {
+        "tweet": "Le thé noir au citron serait efficace pour se protéger du cancer de l'ovaire. Les femmes pourraient se protéger... http://fb.me/47Vn5fbyf ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "60": {
+        "tweet": "Cancer de l'ovaire : 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "61": {
+        "tweet": "CANCER de l'OVAIRE: 2 tasses de thé pour réduire de 30% son risque - American Journal of Clinical Nutrition http://dlvr.it/7LytqX ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "62": {
+        "tweet": "CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "63": {
+        "tweet": "Actu santé : CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "64": {
+        "tweet": "#CANCER de l’OVAIRE: 2 tasses de thé pour réduire de 30% son risque http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089_lirelasuite.htm#lirelasuite … #santelog",
+        "score": 2,
+        "label": "neutre"
+    },
+    "65": {
+        "tweet": "CANCER de l'OVAIRE: 2 tasses de thé pour réduire de 30% son risque - American Journal of Clinical Nutrition... http://fb.me/2JJkouLQx ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "66": {
+        "tweet": "CANCER de l'OVAIRE: 2 tasses de thé pour réduire de 30% son risque - American Journal of Clinical Nutrition http://dlvr.it/7LytqX ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "67": {
+        "tweet": "CANCER de l'OVAIRE: 2 tasses de thé pour réduire de 30% son risque - American Journal of Clinical Nutrition http://www.santelog.com/news/cancerologie/cancer-de-l-ovaire-2-thes-au-citron-par-jour-pour-reduire-de-30-son-risque_13089.htm …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "68": {
+        "tweet": "Le Gingembre, curcuma, citron certainement plus efficace http://fb.me/2YuFSiTcC ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "69": {
+        "tweet": "@Curiolog @guardian @guardianeco Quoting jus de citron pour guérir du cancer or les vaccins sont dangereux as bad information.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "70": {
+        "tweet": "Pfff... Soigner Ebola avec du chlorure de magnésium... Et pourquoi pas guérir du cancer grâce au jus de citron! #LastRT",
+        "score": 1,
+        "label": "negatif"
+    },
+    "71": {
+        "tweet": "Oh Le seul remède que je connais c'est une tisane avec du miel et du citron, je peux avoir un cancer je me ferais quand mm une tisane+ miel",
+        "score": 1,
+        "label": "negatif"
+    },
+    "72": {
+        "tweet": "un remède efficace et pas cher contre le cancer. Aissi très efficace pour maintenir sa santé... http://fb.me/6BRDnu07l ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "73": {
+        "tweet": "@Rowlfg Et 1 fraise tagada ctre la famine, 1 maison en coton ctre ls tornades, 1 jus de citron contre le cancer, 1 bisou contre 1violeur....",
+        "score": 2,
+        "label": "neutre"
+    },
+    "74": {
+        "tweet": "@lucieb91 Y a le citron et la bicarbonate, de puissants remèdes trop ignorés. http://www.espritsciencemetaphysiques.com/citron-bicarbonate-soude-combinaison-guerison-puissante.html … #cancer d@sharethis",
+        "score": 2,
+        "label": "neutre"
+    },
+    "75": {
+        "tweet": "[SANTE] Hépatite, calculs, cancer, diabète et hypertension : Remèdes à base de citron A Lire ici ↴... http://fb.me/3IdPnW3TS ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "76": {
+        "tweet": "Du citron contre le cancer! - LE CITRON BIEN MEILLEUR QUE LA CHIMIOTHÉRAPIE!!! C’est sûr??? Institut de… http://cancer-soinsalternatifs.over-blog.net/article-du-citron-contre-le-cancer-61551414.html#fromTwitter …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "77": {
+        "tweet": "Si t'as un cancer aux poumons, faut boire du jus de citron. Ca va les nettoyer #Harold",
+        "score": 1,
+        "label": "negatif"
+    },
+    "78": {
+        "tweet": "Du citron contre le cancer! - LE CITRON BIEN MEILLEUR QUE LA CHIMIOTHÉRAPIE!!! C’est sûr??? Institut de… http://cancer-soinsalternatifs.over-blog.net/article-du-citron-contre-le-cancer-61551414.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "79": {
+        "tweet": "Ma mère a refusée chimiotherapie et son cancer du poumon a diminué depuis 4 ans avec recette au citron http://cancer-soinsalternatifs.over-blog.net/article-du-citron-contre-le-cancer-61551414.html …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "80": {
+        "tweet": "€‹ > > C'est connu mais il est bon de s'en rappeler > > Ennemi puissant du cancer un fruit > > > > Le citron... http://fb.me/6Mngu39RI ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "81": {
+        "tweet": "Qd la vie t'offre du citron, fais en une citronnade, mais que fait-on si la vie ns offre un cancer? #Stephen #effetpap",
+        "score": 1,
+        "label": "negatif"
+    },
+    "82": {
+        "tweet": "Soigner un cancer au jus de citron ou par concentration | Les conneries que véhiculent l'oisiveté et la boboïtude http://www.parismatch.com/Actu/Sante/Soigner-un-cancer-au-jus-de-citron-ou-par-concentration-156144 …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "83": {
+        "tweet": "#REMEDE le Citron Congelé, remède anti-cancer ultra efficace http://recettes-quebecoises.qc.ca/2014/03/02/le-citron-congele-incroyable-force-de-guerison-naturelle/#.UxzIHsBS0I8.facebook …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "84": {
+        "tweet": "@SamanthaCBB Non mais la meuf on dirait il a un cancer de l'utérus, relax, prends un fanta citron.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "85": {
+        "tweet": "Le citron, aliment anti-cancer miracle ? http://www.chimio-pratique.com/le-citron-aliment-anti-cancer-miracle/ …",
+        "score": 3,
+        "label": "positif"
+    },
+    "86": {
+        "tweet": "Jvais me ruiner dans le citron mais je suis confiante en ses bienfaits J'ai pas envi de choper le cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "87": {
+        "tweet": "@Natentongs @NGourd @babooLN arretons lezs boissons alcooliseés prendre au lieu et place citron et the contre le cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "88": {
+        "tweet": "C est la verite, la chimio accelere le cancer, l ecorce de citron est dix mille fois plus efficace que la chimio. Les blogs.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "89": {
+        "tweet": "@LeVraiHoroscope: Alcool du #Cancer : Vodka. Je dirais même plus : vodka-citron-eau !! #LABASE",
+        "score": 2,
+        "label": "neutre"
+    },
+    "90": {
+        "tweet": ": Le boisson préféré du #Cancer est l' Ice Tea, gout pêche ou citron! Merde il m'a eu le batard.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "91": {
+        "tweet": "Citron ennemi N°1 du cancer. Source: http://www.afrohistorama.info/article-le-citron-ennemi-n-1-du-cancer-selon-institut-de-sciences-de-la-sante-l-l-c-819-n-causez-street-balt-86191715.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "92": {
+        "tweet": "Le citron serait l'ennemi N°1 du cancer, et 10000 fois plus efficace que la chimio thérapie. Il aiderait aussi à prevenir la maladie",
+        "score": 1,
+        "label": "negatif"
+    },
+    "93": {
+        "tweet": "L’infirmière du lycée tu peux lui dire que ta le cancer, elle va quand même te donné un sucre ou une pastille au citron cette connasse...",
+        "score": 3,
+        "label": "positif"
+    },
+    "94": {
+        "tweet": "Il est démontré ke un verre de citron par jour permet de lutter contre ts types de cancer",
+        "score": 1,
+        "label": "negatif"
+    },
+    "95": {
+        "tweet": "Ma mère a expérimenté cela pour cancer poumon, fait 4 ans son cancer a diminue RT aucun medicament http://eddenyaup.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "96": {
+        "tweet": "le citron protege les tissus ou les organes humains contre le cancer et l hypertension.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "97": {
+        "tweet": "Mon frère a peur d'avoir le cancer du citron, parce qu'il met beaucoup de citron sur la viande et poisson #CeMecEstFou",
+        "score": 1,
+        "label": "negatif"
+    },
+    "98": {
+        "tweet": "“@DarkHoroscope: Le boisson préféré du #Cancer est l' Ice Tea, gout pêche ou citron!” ÊTES VOUS DIEU ? :)",
+        "score": 2,
+        "label": "neutre"
+    },
+    "99": {
+        "tweet": "@VolailleDesBois on est cons quand même. On développe des thérapies hors de prix alors qu'un citron suffit à soigner le cancer !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "100": {
+        "tweet": "“@DarkHoroscope: Le boisson préféré du #Cancer est l' Ice Tea, gout pêche ou citron!” Moi a 382638292% mdrrr :'))",
+        "score": 2,
+        "label": "neutre"
+    },
+    "101": {
+        "tweet": "Le boisson préféré du #Cancer est l' Ice Tea, gout pêche ou citron!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "102": {
+        "tweet": "@latifamanseri Toujours se méfier avant de diffuser ce genre d'infos... Il y a de vrais malades désespérés... http://www.hoaxbuster.com/hoaxliste/cancer-citron …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "103": {
+        "tweet": "Alerte au faux citron guérisseur de cancer http://www.hoaxbuster.com/hoaxliste/cancer-citron … J'<3 les conspirationnistes",
+        "score": 2,
+        "label": "neutre"
+    },
+    "104": {
+        "tweet": "Santé : Le citron et le cancer - I HooH ! http://shar.es/IQOVi  via @Ihooh.net",
+        "score": 1,
+        "label": "negatif"
+    },
+    "105": {
+        "tweet": "Le citron un aliment anti cancer, canular ou vérité ? http://www.bon-coin-sante.com/blog-sante-sans-prise-de-tete/actualites-sante/le-citron-un-aliment-anti-cancer-canular-ou-verite/ … via @@Boncoinsante",
+        "score": 2,
+        "label": "neutre"
+    },
+    "106": {
+        "tweet": "Affligeant ces new hippies alternatifs, après le citron qui guérit le cancer voici le pépin de pamplemousse http://www.alternativesante.fr/extraitpepin-de-pamplemousse/ … #Neuneus",
+        "score": 2,
+        "label": "neutre"
+    },
+    "107": {
+        "tweet": "Il paraitrait que le citron (jaune) aurait de grandes vertus anti-cancer. De grandes grandes...",
+        "score": 2,
+        "label": "neutre"
+    },
+    "108": {
+        "tweet": "Citron, miel, eau chaude... Ça devrait même soigner le cancer. Trop efficace !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "109": {
+        "tweet": "UN CITRON PAR JOUR ELOIGNE LE CANCER DE NOUS. A NOTRE SANTE!!! http://fb.me/2rT51p5d7 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "110": {
+        "tweet": "La peau du citron sa tue les cellule du cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "111": {
+        "tweet": "À lire bien intéressant ! éloigne le cancer ! http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "112": {
+        "tweet": "Le citron contre le cancer. http://fb.me/14pdd7b7W ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "113": {
+        "tweet": "A force de lire ce que Luc Trullemans partage tu mangerais plus que du citron pour éviter le cancer et de l'ail... http://fb.me/PVbWC1st ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "114": {
+        "tweet": "Le citron le produit miracle contre le cancer? 10 000 fois plus puissant que la chimiothérapie? Et ben putain, à ce point...",
+        "score": 2,
+        "label": "neutre"
+    },
+    "115": {
+        "tweet": "Le citron ennemi du cancer? http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "116": {
+        "tweet": "Plus de #chimio! Le citron contre le #cancer ? Ca serait bien ! Via @MaRichesseCom : http://0z.fr/xhDr6 ”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "117": {
+        "tweet": "- Citron 5 - Et en cas de cancer ? - Le dogme thérapeutique - - Le blog de... : http://pear.ly/umpg4  via @pearltrees #citronetsesvertus",
+        "score": 2,
+        "label": "neutre"
+    },
+    "118": {
+        "tweet": "Les vertus du citron congelé pour lutter contre le cancer!! et oui!! | Tu... : http://pear.ly/umo68  via @pearltrees #citronetsesvertus",
+        "score": 2,
+        "label": "neutre"
+    },
+    "119": {
+        "tweet": "Le citron un aliment anti cancer, canular ou vérité ? : http://pear.ly/umo5O  via @pearltrees #citronetsesvertus",
+        "score": 2,
+        "label": "neutre"
+    },
+    "120": {
+        "tweet": "@Marjorie__S doctissimo, insomnie ... Greg j'ai un cancer du cerveau !! ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "121": {
+        "tweet": "Le citron ennemi N°1 du cancer | Didier Batté's Empower Network Blog http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "122": {
+        "tweet": "Le citron ennemi N°1 du cancer http://buff.ly/1dFhiqf ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "123": {
+        "tweet": "Yahya Qachach - Le citron ennemi N°1 du cancer http://buff.ly/193r0oz ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "124": {
+        "tweet": "Le citron ennemi N°1 du cancer | @scoopit http://sco.lt/8G2LPl ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "125": {
+        "tweet": "Le citron un aliment anti cancer, canular ou vérité ? http://www.bon-coin-sante.com/blog-sante-sans-prise-de-tete/actualites-sante/le-citron-un-aliment-anti-cancer-canular-ou-verite/ … via @Boncoinsante",
+        "score": 2,
+        "label": "neutre"
+    },
+    "126": {
+        "tweet": "Le citron est 10.000 fois plus puissant que la chimiothérapie ! http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie … #cancer #citron #santé",
+        "score": 2,
+        "label": "neutre"
+    },
+    "127": {
+        "tweet": "Le citron ennemi N°1 du cancer | @scoopit http://sco.lt/8G2LPl ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "128": {
+        "tweet": "Le citron est 10 000 fois plus puissant que la chimio (pour guérir le cancer) oh",
+        "score": 2,
+        "label": "neutre"
+    },
+    "129": {
+        "tweet": "“@urgences: Le #citron ennemi N°1 du #cancer, Il est 10.000x plus puissant que la #chimiothérapie. #santé, #urgences http://www.urgences-ci.net/forum/index.php?page=post&ids=43 …”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "130": {
+        "tweet": "#cancer: Le #citron ennemi N°1 du cancer, Il est 10.000 fois plus puissant que la chimiothérapie. #santé, #urgences http://www.urgences-ci.net/forum/index.php?page=post&ids=43 …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "131": {
+        "tweet": "#cancer: Le #citron ennemi N°1 du cancer, Il est 10.000 fois plus puissant que la chimiothérapie. #santé, #urgences",
+        "score": 1,
+        "label": "negatif"
+    },
+    "132": {
+        "tweet": "Existe-t-il des aliments anti cancer? et le citron entre autres http://www.eddenya.com/index.php/sante-et-sciences/2873-existe-t-il-des-aliments-anti-cancer …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "133": {
+        "tweet": "Citron et Cancer...! http://fb.me/2oVx6LXZW ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "134": {
+        "tweet": "Le citron ennemi N°1 du cancer | Didier Batté's Empower Network Blog http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "135": {
+        "tweet": "Le citron, l'ennemi numéro 1 du cancer!!! #massotherapie #conseils #citron http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "136": {
+        "tweet": "Le citron ennemi N°1 du cancer | Didier Batté's Empower Network Blog http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "137": {
+        "tweet": "http://www.tatabuzz.com/2013/06/le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie/ … Comment guérir du #cancer : le #citron est 10x plus puissant que la #chimiothérapie ! #buzz #medecine #santé",
+        "score": 2,
+        "label": "neutre"
+    },
+    "138": {
+        "tweet": "comment #guérir le #cancer avec 1 simple #citron et pourquoi on vous a #menti http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 3,
+        "label": "positif"
+    },
+    "139": {
+        "tweet": "@kestudislol @Mekestufais moi aussi en dessous des palmiers et en plus le citron sa brûle les graisses et a des vertus contre le cancer lol",
+        "score": 2,
+        "label": "neutre"
+    },
+    "140": {
+        "tweet": "#cancer #santé Le citron est 10.000 fois plus puissant que la chimiothérapie ! http://www.eddenyaup.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "141": {
+        "tweet": "y croyez vous moi non, mais ma mer en a fait l'expérience et bizarrement son cancer des poumons a diminue Sceptique http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "142": {
+        "tweet": "Le citron est 10.000 fois plus puissant que la chimiothérapie ! http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie … #Santé #Cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "143": {
+        "tweet": "J. Mézard (RDSE) : Jus de citron et lavement au café ne soignent pas du cancer ou de la sclérose en plaques #directsénat #santé",
+        "score": 1,
+        "label": "negatif"
+    },
+    "144": {
+        "tweet": "Du thé au citron pour un effet antioxydant accru http://goo.gl/ijv9I ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "145": {
+        "tweet": "@rsistons oui ,il faut difuser au max qu'on peut se soigner du cancer :citron et jus à volonté !!et bcp de FOI et Piété",
+        "score": 2,
+        "label": "neutre"
+    },
+    "146": {
+        "tweet": "#InventeUnSecretPourSS7 J'ai été atteint du Cancer et j'ai été guéri avec du citron.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "147": {
+        "tweet": "Le citron, un bienfait d'Allah ta'ala ! Masha Allah http://fb.me/1mHns7xta ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "148": {
+        "tweet": "Oui Citron le Cancer !!!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "149": {
+        "tweet": "Les plantes médicinales qui protègent contre toutes formes de cancer sont l'ail,le citron,la tomate,la nigelle,le corrossol,etc...",
+        "score": 1,
+        "label": "negatif"
+    },
+    "150": {
+        "tweet": "Entre citron et champagne .......plus de cancer et plus d'alzheimer........! http://fb.me/AImKF2OH ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "151": {
+        "tweet": "En cas de cancer, j'essaierais le citron avant la chimiothérapie!!!! http://fb.me/29ddHBVJX ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "152": {
+        "tweet": "Saviez-vous que le citron est trés bon pour le cancer! Il faut en boire beaucoups. svp...",
+        "score": 2,
+        "label": "neutre"
+    },
+    "153": {
+        "tweet": "#Citron détruit les cellules malignes ds 12 types de cancer, côlon, du sein,de la prostate, du poumon et du pancréas http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "154": {
+        "tweet": "Le citron est 10.000 fois plus puissant que la chimiothérapie ! #santé #cancer http://www.eddenya.com/index.php/sante-et-sciences/1677-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "155": {
+        "tweet": "@Youri66 j'y ai cru et puis http://www.hoaxbuster.com/hoaxliste/cancer-citron …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "156": {
+        "tweet": "Il détruit les cellules malignes dans 12 types de cancer, y compris celui du côlon, du sein, de la prostate, du... http://fb.me/2nEV6dIMM ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "157": {
+        "tweet": "Le citron est un produit miraculeux pour tuer les cellules cancéreuses. je viens de voir ca et je me suis dis que j'aurai pas le cancer!",
+        "score": 3,
+        "label": "positif"
+    },
+    "158": {
+        "tweet": "Le citron ennemi N°1 du cancer ... si ces dires sont averes deh il y a la de quoi se degouter definitivement des... http://fb.me/1mLEMYkr9 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "159": {
+        "tweet": "Le citron ennemi N°1 du cancer. SANAA. Cuisine Marocaine et Méditerranéenne http://fb.me/2KlwX2Ej3 ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "160": {
+        "tweet": "Bonjour, merci de me suivre J'ai posté un nouvel article un ennemi contre le cancer le citron http://oua.be/y7f  Amicalement,",
+        "score": 1,
+        "label": "negatif"
+    },
+    "161": {
+        "tweet": "Une bonne Citronnade Le citron ennemi N°1 du cancer C'est à savoir et à diffuser... Institut de Sciences de la... http://fb.me/MEij5JDF ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "162": {
+        "tweet": "J'espère que c'est pas un cancer des dents, ou j'ai du manger trop de citron #LT",
+        "score": 1,
+        "label": "negatif"
+    },
+    "163": {
+        "tweet": "Les bienfaits du citron - ennemi N°1 du cancer http://ith-yaala.discutforum.com/t4272- ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "164": {
+        "tweet": "Bonjour,merci de me suivre j'ai posté un nouvel article un ennemi contre le cancer le citron http://oua.be/y7f  Amicalement,",
+        "score": 1,
+        "label": "negatif"
+    },
+    "165": {
+        "tweet": "Bonjour , bienvenue aux nouveaux abonnés https://www.empowernetwork.com/leader2013/?p=111 … Amicalement,",
+        "score": 2,
+        "label": "neutre"
+    },
+    "166": {
+        "tweet": "Bonjour bienvenu Aujourd'hui nous parlerons de l'ennemi du CANCER le citron!!! http://www.empowernetwork.com/leader2013/blog/le-citron-ennemi-n1-du-cancer/ … Amicalement,",
+        "score": 2,
+        "label": "neutre"
+    },
+    "167": {
+        "tweet": "#Citron maître en matière de #détox, contient des anti-oxydants, a des vertus anti-cancer, anti-fringales, antiseptiques & anti-saignement",
+        "score": 2,
+        "label": "neutre"
+    },
+    "168": {
+        "tweet": "Le citron un aliment anti cancer, canular ou vérité ? | @scoopit http://sco.lt/6DG93Z ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "169": {
+        "tweet": "Merci de partager cet article!! Information très utile Le citron ennemi N°1 du cancer C'est à savoir et à... http://fb.me/2trw6dW6U ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "170": {
+        "tweet": "A partager .. Le citron , ennemi n'1 du cancer http://fb.me/N6I4Usul ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "171": {
+        "tweet": "Le citron, remède naturel contre la crève et le cancer! Vais devenir Alcocitroné....",
+        "score": 1,
+        "label": "negatif"
+    },
+    "172": {
+        "tweet": "Le citron ennemi N°1 du cancer http://fb.me/20wfYnAML ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "173": {
+        "tweet": "Canular “@Juliiie04: citron plus puissant que la chimiothérapie http://www.hoaxbuster.com/hoaxliste/cancer-citron … @Psiri29 @Juliesoleil14 @Alain_2012a @75_JASMIN",
+        "score": 2,
+        "label": "neutre"
+    },
+    "174": {
+        "tweet": "@MaRichesseCom Cancer-Citron=FAUX. http://www.hoaxbuster.com/hoaxliste/cancer-citron … @GabrielleBoldu1",
+        "score": 2,
+        "label": "neutre"
+    },
+    "175": {
+        "tweet": "Le citron ennemi N°1 du cancer - C’est à savoir et à diffuser... Institut de Sciences de la Santé, L.L.C. 819… http://forumdesdemocrates.over-blog.com/article-le-citron-ennemi-n-1-du-cancer-115814189.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "176": {
+        "tweet": "Citron tue cancer http://wp.me/p33XR9-VC ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "177": {
+        "tweet": "RT @tlacocan: @civVR http://www.hoaxbuster.com/hoaxliste/cancer-citron … désolé d'avoir diffusé une info pareille... rss auto :",
+        "score": 2,
+        "label": "neutre"
+    },
+    "178": {
+        "tweet": "Cancer - Le citron, un puissant remède - http://Abidjan.net  http://news.abidjan.net/h/452501.html  via @abidjan_net",
+        "score": 2,
+        "label": "neutre"
+    },
+    "179": {
+        "tweet": "Cancer - Le citron, un puissant remède (Le Democrate) http://bit.ly/Xrv6zY ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "180": {
+        "tweet": "Je pense que dans 10 minutes, je vais taper guérir d'un cancer du poumon. #EffetDoctissimo",
+        "score": 1,
+        "label": "negatif"
+    },
+    "181": {
+        "tweet": "Le citron ennemi N°1 du cancer http://fb.me/1X6fF3zwN ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "182": {
+        "tweet": "#Senegal #Ndar | Le citron ennemi N°1 du cancer: Institut de Sciences de la Santé, L.L.C. 819... | #Sunu2012 #kebetu http://xfru.it/W4y6ec ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "183": {
+        "tweet": "Le WWF qui s'allie à Coca pour sauver les ours blancs. C'est comme si le jus de citron s'alliait au cancer pour sauver l'homme.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "184": {
+        "tweet": "il parait que le citron est l'ennemi n°1 du cancer........ cherche à confirmer l'information.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "185": {
+        "tweet": "Le citron, miracle contre le cancer. Lisez ici: http://bien-etre-dans-sa-vie.com/le-citron-miracle-contre-le-cancer/ … http://fb.me/1KzTAsS2N ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "186": {
+        "tweet": "Le citron, miracle contre le cancer http://bien-etre-dans-sa-vie.com/le-citron-miracle-contre-le-cancer/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "187": {
+        "tweet": "Le citron ennemi N°1 du cancer C'est à savoir et à diffuser... Institut de Sciences de la Santé, L.L.C. 819 N.... http://fb.me/2csLz0Jqp ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "188": {
+        "tweet": "Depui taleur je tousse, jpensé ke seté le cancer finalement ma mere me fai de lhuile dolive du miel et du citron et sa va mieu #remededubled",
+        "score": 1,
+        "label": "negatif"
+    },
+    "189": {
+        "tweet": "Tuyau: La santé par le citron, notamment contre le cancer - Le blog d' Eva, R-sistons à la crise : http://0z.fr/lIhDg ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "190": {
+        "tweet": "Le citron ennemi N°1 du cancer - debat actualité humour discuter de tout et de rien question de tout un peu http://blablaterama.blog4ever.com/blog/lire-article-442691-9577734-le_citron_ennemi_n_1_du_cancer.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "191": {
+        "tweet": "Certains aliments ont des pouvoirs guérisseurs ! Ail, citron, noix... ont des vertus contre le cholestérol, le cancer, l’hypertension etc..",
+        "score": 2,
+        "label": "neutre"
+    },
+    "192": {
+        "tweet": "Maman elle me dit que si je bois trop le citron j'aurais le cancer de l'estomac toussa pour que j'arrete de boir , mddr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "193": {
+        "tweet": "@max_boublil le citron a des vertus contre le cancer, prouvé parA+B.il faut l'introduire ds don alimentation. Attention aux ulcéreux juste",
+        "score": 2,
+        "label": "neutre"
+    },
+    "194": {
+        "tweet": "SECRET pour eviter le cancer et meme le soigner !!! consommer regulierement du CITRON...... merci de faire partager",
+        "score": 2,
+        "label": "neutre"
+    },
+    "195": {
+        "tweet": "@LiseDion Un bon remède efficace,mange du citron frais avec du sel.Ca dégorge le foie et est anti cancer :)",
+        "score": 2,
+        "label": "neutre"
+    },
+    "196": {
+        "tweet": "Cancer : Le citron est 10.000 fois plus puissant que la chimiothérapie - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html#fromTwitter …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "197": {
+        "tweet": "Le yuzu, le nouvel atout santé venu du pays du soleil levant http://bit.ly/NqBNsU ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "198": {
+        "tweet": "Le citron et le bol en raku l'attendent, en bas. - Le Club de Mediapart http://bit.ly/S3G6zh  http://goo.gl/gct5 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "199": {
+        "tweet": "Ce qu'on nous cache sur le #citron #cancer. Sa fait deux fois que j,attends parler de cette publicité http://www.lexpressiondz.com/autres/de_quoi_jme_mele/156701-ce-qu-on-nous-cache-sur-le-citron.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "200": {
+        "tweet": "@debcukier Dans 50 ans on reparlera du cancer de la peau au contact du Paic Citron ! :D",
+        "score": 1,
+        "label": "negatif"
+    },
+    "201": {
+        "tweet": "Tous Contre Le Cancer: Le citron est 10 000 fois plus puissant que la chi... http://guerircancer.blogspot.com/2012/06/le-citron-est-10-000-fois-plus-puissant.html?spref=tw …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "202": {
+        "tweet": "McDonald partenaire des J.O, c'est comme si Marlboro etait partenaire de la ligue contre le cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "203": {
+        "tweet": "bon à savoir car l'ignorance tue! Une bonne Citronnade Le citron ennemi N°1 du cancer C'est à savoir et à... http://fb.me/28iaHiH2J ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "204": {
+        "tweet": "On m'a tellement buté aux risques de Cancer de la peau après ça que je me bute au Thé froid citron depuis l'enfance",
+        "score": 2,
+        "label": "neutre"
+    },
+    "205": {
+        "tweet": "Tuyau: La santé par le citron, notamment contre le cancer -… http://sos-crise.over-blog.com/article-tuyau-la-sante-par-le-citron-notamment-contre-le-cancer-59824456.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "206": {
+        "tweet": "A toutes fins utiles!!! http://fb.me/142GN39QR ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "207": {
+        "tweet": "Tuyau: La santé par le citron, notamment contre le cancer -… http://sos-crise.over-blog.com/article-tuyau-la-sante-par-le-citron-notamment-contre-le-cancer-59824456.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "208": {
+        "tweet": "Le citron ennemi N°1 du cancer . C'est à savoir et à diffuser.. http://fb.me/1Lj2QwhEb ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "209": {
+        "tweet": "Le citron ennemi N°1 du cancer C'est à savoir et à diffuser... http://goo.gl/xnvXu ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "210": {
+        "tweet": "Nouveau délire sur Facebook pour aider la lutte du cancer du sein. Moi je suis un Milkshake Fraise Citron Cerise! #pasenviedemettreçasurFB",
+        "score": 1,
+        "label": "negatif"
+    },
+    "211": {
+        "tweet": "Le citron ennemi N°1 du cancer http://fb.me/1HyqxhnO8 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "212": {
+        "tweet": "#ChezLesArabes quand t'as un cancer ils trouvent toujours une solution genre boit du lait avec un citron et une mandarine t'inquiète...",
+        "score": 1,
+        "label": "negatif"
+    },
+    "213": {
+        "tweet": "#ChezLesArabes quand t'as un cancer ils trouvent toujours une solution genre boit du lait avec un citron et une mandarine t'inquiète...",
+        "score": 1,
+        "label": "negatif"
+    },
+    "214": {
+        "tweet": "Le jour où vous aurez un cancer, (inévitablement), manger du citron pi des champignons. Avec une thérapie par l'Echo.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "215": {
+        "tweet": "Lemon Hoaxest | HoaxBuster - Vérifier l'information en circulation sur le web: http://bit.ly/HHVhdM  via @AddThis",
+        "score": 2,
+        "label": "neutre"
+    },
+    "216": {
+        "tweet": "Le citron ennemi N°1 du cancer http://0z.fr/wu2E2 ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "217": {
+        "tweet": "@coquelicom je précise que je n'ai rien contre le naturel mais j'ai encore reçu un mail hier de traitement du cancer par le citron :/",
+        "score": 2,
+        "label": "neutre"
+    },
+    "218": {
+        "tweet": "Le citron contre le cancer - Les canulars du moment http://techno.ca.msn.com/photos/galeriedephotos.aspx?cp-documentid=28291576&page=3&ocid=tweet …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "219": {
+        "tweet": "D�sinformation (Cancer/citron) http://lnkd.in/g3357C ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "220": {
+        "tweet": "symptôme cancer, cancer et citron, asperge et cance.. http://bit.ly/Ahn2Wk  #alimentation #contre #le #asperge #et #cancer",
+        "score": 1,
+        "label": "negatif"
+    },
+    "221": {
+        "tweet": "Rick Thunder mixe au Citron ce soir ! Si les lyonnais veulent cancer sur du bon son, bouncer, shaker leur booty,... http://fb.me/1pVBRkjqM ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "222": {
+        "tweet": "Rumeur Citron Anti-Cancer http://www.hoaxbuster.com/hoaxliste/cancer-citron … http://bit.ly/xBN4b4  via @addthis",
+        "score": 2,
+        "label": "neutre"
+    },
+    "223": {
+        "tweet": "Cancer : \\Le citron est 10.000 fois plus puissant que la chimiothérapie\\ - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "224": {
+        "tweet": "Cancer : \\Le citron est 10.000 fois plus puissant que la chimiothérapie\\ - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "225": {
+        "tweet": "Cancer : Le citron est 10.000 fois plus puissant que la chimiothérapie - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html#fromTwitter …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "226": {
+        "tweet": "Cancer : 'Le citron est 10.000 fois plus puissant que la chimiothérapie' http://fb.me/1AyP5oJLQ ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "227": {
+        "tweet": "Cancer : \\Le citron est 10.000 fois plus puissant que la chimiothérapie\\ - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "228": {
+        "tweet": "http://www.wikistrike.com/article-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-93311928.html … Pas besoin de s'empoisonner, autant prévenir #citron #cancer #solution #chimiothérapie",
+        "score": 2,
+        "label": "neutre"
+    },
+    "229": {
+        "tweet": "Cancer : \\Le citron est 10.000 fois plus puissant que la chimiothérapie\\ - Le citron est 10.000 fois plus… http://sos-crise.over-blog.com/article-cancer-le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie-94942585.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "230": {
+        "tweet": "http://Guerir.org  : Du citron pour diminuer le risque de cancer http://lnkd.in/K8Bfmp ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "231": {
+        "tweet": "Le citron est 10.000 fois plus puissant que la chimiothérapie ! http://www.monmag.com/2011/12/14/le-citron-est-10-000-fois-plus-puissant-que-la-chimiotherapie/ … #santé #cancer #citron #maladie",
+        "score": 2,
+        "label": "neutre"
+    },
+    "232": {
+        "tweet": "les gens mangez ou buvez du citron ! ça tue les cellules malignes dans 12 types de cancer !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "233": {
+        "tweet": "A quand la tarte au citron qui guérira le cancer hein ? http://bit.ly/t0cYtE ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "234": {
+        "tweet": "Le citron ennemi N°1 du cancer http://sk.mu/a7dXR1QG9wDv ",
+        "score": 2,
+        "label": "neutre"
+    },
+    "235": {
+        "tweet": "La prévention du cancer commence avec le citron et les crucifères - http://goo.gl/mM7tr  via @Shareaholic",
+        "score": 2,
+        "label": "neutre"
+    },
+    "236": {
+        "tweet": "Les CITRON est un remède miracle contre le cancer, le web contient pas mal d'info sur le sujet. S'inforemr et conseiller vos connaissances.",
+        "score": 3,
+        "label": "positif"
+    },
+    "237": {
+        "tweet": "Le citron ennemi N°1 du cancer selon Institut de Sciences de la Santé, L.L.C. 819 N. Causez Street, Baltimore, MD 1201 http://www.lavoixpeuhle.info/2011/10/11/sante-le-citron-ennemi-n%c2%b01-du-cancer-selon-institut-de-sciences-de-la-sante-l-l-c-819-n-causez-street-baltimore-md-1201/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "238": {
+        "tweet": "@DAVIDsTEA http://yfrog.com/o04x4glj , my heart beats for #mycupoftea the vert et citron, un anti cancer suite à l'annonce du cancer de ma maman!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "239": {
+        "tweet": "@DAVIDsTEA The vert et citron!depuis que ma maman a le cancer, on travail fort pour ingurgiter les bonnes choses dont le the vert :) MERCI",
+        "score": 2,
+        "label": "neutre"
+    },
+    "240": {
+        "tweet": "[ Santé féminine ] Question ouverte : Le citron, effet curatif du cancer du sein? http://bit.ly/r4jSG7",
+        "score": 2,
+        "label": "neutre"
+    },
+    "241": {
+        "tweet": "Question ouverte: Le citron peut-il guerir le cancer?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "242": {
+        "tweet": "@uLemon J'espère que t'as pas le cancer du citron... :'( #pamplejoke",
+        "score": 2,
+        "label": "neutre"
+    },
+    "243": {
+        "tweet": "Yeca.fr : Le citron, un produit miraculeux contre le cancer? http://bit.ly/jJEo9F",
+        "score": 2,
+        "label": "neutre"
+    },
+    "244": {
+        "tweet": "Soigner un cancer au jus de citron ou par concentration: Le rapport annuel de la Miviludes, rendu public ce merc... http://bit.ly/mE8Q5Y",
+        "score": 3,
+        "label": "positif"
+    },
+    "245": {
+        "tweet": "Soigner un cancer au jus de citron ou par concentration: Le rapport annuel de la Miviludes, rendu public ce merc... http://bit.ly/mGZom9",
+        "score": 3,
+        "label": "positif"
+    },
+    "246": {
+        "tweet": "Soigner un cancer au jus de citron ou par concentration: Le rapport annuel de la Miviludes, rend... http://bit.ly/j7DKPv www.Urbivox.org",
+        "score": 1,
+        "label": "negatif"
+    },
+    "247": {
+        "tweet": "@ouestfrancefr ou l'inverse ?: le jus de citron ne guérit pas de la fin du monde et 2012 ne sera pas la fin du cancer.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "248": {
+        "tweet": "Non, le jus de citron ne guérit pas le cancer et 2012 n'est pas la fin du monde http://bit.ly/lsQWXA  Sectes & Internet. J'aime de titre :)",
+        "score": 1,
+        "label": "negatif"
+    },
+    "249": {
+        "tweet": "Sectes. Le jus de citron ne guérit pas le cancer et 2012 n'est pas la fin du monde http://www.ouest-france.fr/r.php?d=1834867&c=39382 … via @ouestfrancefr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "250": {
+        "tweet": "France : Sectes. Le jus de citron ne guérit pas le cancer et 2012 n'est pas la fin du monde http://bit.ly/j08jHf",
+        "score": 2,
+        "label": "neutre"
+    },
+    "251": {
+        "tweet": "Sectes. Le jus de citron ne guérit pas le cancer et 2012 n'est pas la fin du monde http://bit.ly/k7o9Vv",
+        "score": 2,
+        "label": "neutre"
+    },
+    "252": {
+        "tweet": "Entendu sur #iTélé : Ne croyez pas ces méthodes qui prétendent guérir le cancer avec du jus de citron ou du bicarbonate de soude. Ah bon?",
+        "score": 1,
+        "label": "negatif"
+    },
+    "253": {
+        "tweet": "Sectes: le jus de citron ne guérit pas le cancer - Romandie http://bit.ly/lwgdH1 ",
+        "score": 1,
+        "label": "negatif"
+    },
+    "254": {
+        "tweet": "Sectes: le jus de citron ne guérit pas le cancer",
+        "score": 2,
+        "label": "neutre"
+    },
+    "255": {
+        "tweet": "Sectes: le jus de citron ne guérit pas le cancer - Romandie.com http://tinyurl.com/5r6lzuj",
+        "score": 1,
+        "label": "negatif"
+    },
+    "256": {
+        "tweet": "RT @MaximBey Mise en garde de la Miviludes (anti-sectes) : le jus de #citron ne guérit pas le cancer. Tellement déçu...",
+        "score": 1,
+        "label": "negatif"
+    },
+    "257": {
+        "tweet": "Mise en garde de la Miviludes (anti-sectes) : le jus de #citron ne guérit pas le cancer. Tellement déçu...",
+        "score": 1,
+        "label": "negatif"
+    },
+    "258": {
+        "tweet": "le citron serait efficace contre le cancer http://onenparle.xooit.fr/t1109-CITRON.htm#p7860",
+        "score": 2,
+        "label": "neutre"
+    },
+    "259": {
+        "tweet": "On vient de m'envoyer un chain-mail prétendant que le citron guérit le cancer. Je vais le forwarder aux cancéreux de mon groupe de parole.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "260": {
+        "tweet": "Du citron contre le cancer! http://0z.fr/dTbsU",
+        "score": 2,
+        "label": "neutre"
+    },
+    "261": {
+        "tweet": "Le citron:régule la tension artérielle trop haute,combat la tension détruit les cellules malignes du cancer et est antidépressive.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "262": {
+        "tweet": "Et si c'était vrai !!!! Le citron contre le cancer Information intéressante et importante: (cont) http://tl.gd/701r29",
+        "score": 2,
+        "label": "neutre"
+    },
+    "263": {
+        "tweet": "SAVIEZ-VOUS QUE LE CITRON PEUT AIDER À PRÉVENIR ET À VAINCRE LE CANCER?? EN FAIT, IL S'AVÈRERAIT MÊME ÊTRE PLUS... http://fb.me/xaAfMEnx",
+        "score": 2,
+        "label": "neutre"
+    },
+    "264": {
+        "tweet": "Tuyau: La santé par le citron, notamment contre le cancer http://0z.fr/lIhDg",
+        "score": 1,
+        "label": "negatif"
+    },
+    "265": {
+        "tweet": "le citron contre le cancer une information gardee secrete par les laboratoires. visiter www. noukapab.com http://ning.it/ap6eJR",
+        "score": 1,
+        "label": "negatif"
+    },
+    "266": {
+        "tweet": "le citron contre le cancer une information gardee secrete par les laboratoires. visiter www. noukapab.com http://ning.it/ap6eJR",
+        "score": 1,
+        "label": "negatif"
+    },
+    "267": {
+        "tweet": "Le citron bénéfique, nous protègerait-il du cancer ? http://bit.ly/8Xkawz",
+        "score": 2,
+        "label": "neutre"
+    },
+    "268": {
+        "tweet": "Le citron bénéfique, nous protègerait-il du cancer ? http://nblo.gs/8hUCV",
+        "score": 2,
+        "label": "neutre"
+    }
+}
