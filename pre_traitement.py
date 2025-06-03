@@ -40,7 +40,7 @@ def extract_twitter_data(csv_file_path):
     
     return twitter_data
 
-brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
+#brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
         
 def extract_tweets(dict):
     """
@@ -62,18 +62,46 @@ def extract_tweets(dict):
     
     return tweets_words
 
-data = extract_tweets(brut_data)
+#data = extract_tweets(brut_data)
 #print(data[0])  # Affiche les mots du tweet avec l'ID 1
 
 
+def save_tweets(tweets, file_path):
+    """
+    Sauvegarde un dictionnaire de tweets dans un fichier JSON.
+    
+    Args:
+        tweets (dict): Dictionnaire contenant les tweets.
+        file_path (str): Chemin vers le fichier où sauvegarder les tweets.
+    """
+    with open(file_path, mode='w', encoding='utf-8') as file:
+        json.dump(tweets, file, ensure_ascii=False, indent=4)
+
 # Sauvegarder le dictionnaire dans un fichier texte
-with open('brut_data.txt', mode='w', encoding='utf-8') as file:
-    json.dump(brut_data, file, ensure_ascii=False, indent=4)
-with open('data.txt', mode='w', encoding='utf-8') as file:
-    json.dump(data, file, ensure_ascii=False, indent=4)
+#save_tweets(brut_data, 'brut_data.txt')    
+#save_tweets(data, 'data.txt')
 
-print("Les dictionnaires ont été sauvegardés.txt")
+#print("Les dictionnaires ont été sauvegardés.txt")
 
+def read_saved_tweets(file_path):
+    """
+    Lit un fichier JSON contenant les tweets sauvegardés et retourne le contenu sous forme de dictionnaire.
+    
+    Args:
+        file_path (str): Chemin vers le fichier JSON.
+    
+    Returns:
+        dict: Dictionnaire contenant les tweets.
+    """
+    with open(file_path, mode='r', encoding='utf-8') as file:
+        data = json.load(file)
+    # Convertir les clés en int
+    data = {int(key): value for key, value in data.items()}
+    return data
+
+# Exemple d'utilisation
+#tweets_words = read_saved_tweets('data.txt')
+#print(tweets_words[0])  # Affiche les mots du tweet avec l'ID 0
 
 #####
 
@@ -92,28 +120,6 @@ def partition_random(N):
     
     return list_70, list_20, list_10
 
-l70, l20, l10 = partition_random(100)
-print(len(l70), len(l20), len(l10))  # Devrait afficher environ 71 20 10 (car 0 à 100 = 101 éléments)
-print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment bien une partition
-
-
-####
-def read_saved_tweets(file_path):
-    """
-    Lit un fichier JSON contenant les tweets sauvegardés et retourne le contenu sous forme de dictionnaire.
-    
-    Args:
-        file_path (str): Chemin vers le fichier JSON.
-    
-    Returns:
-        dict: Dictionnaire contenant les tweets.
-    """
-    with open(file_path, mode='r', encoding='utf-8') as file:
-        data = json.load(file)
-    # Convertir les clés en int
-    data = {int(key): value for key, value in data.items()}
-    return data
-
-# Exemple d'utilisation
-tweets_words = read_saved_tweets('data.txt')
-print(tweets_words[0])  # Affiche les mots du tweet avec l'ID 0
+#l70, l20, l10 = partition_random(100)
+#print(len(l70), len(l20), len(l10))  # Devrait afficher environ 71 20 10 (car 0 à 100 = 101 éléments)
+#print(sorted(l70 + l20 + l10) == list(range(101)))  # True, les listes forment bien une partition
