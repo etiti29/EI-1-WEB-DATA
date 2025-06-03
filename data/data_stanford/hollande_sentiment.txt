@@ -1,0 +1,1852 @@
+{
+    "0": {
+        "tweet": "Fils caché, compagne non divorcée... Toutes les réponses aux rumeurs sur François Hollande qui prolifèrent... http://po.st/LXRUvk  via @po",
+        "score": 2,
+        "label": "neutre"
+    },
+    "1": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la rumeur [Vidéo] http://www.telestar.fr/2015/videos/Anne-Hidalgo-Francois-Hollande-est-il-le-pere-de-son-fils-Elle-repond-a-la-rumeur-Video-96043 … via @Telestarmag",
+        "score": 2,
+        "label": "neutre"
+    },
+    "2": {
+        "tweet": "on a retrouvè le fils de hollande et hidalgo",
+        "score": 2,
+        "label": "neutre"
+    },
+    "3": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "4": {
+        "tweet": "@Anne_Hidalgo @Denis_Baupin @SFParisRugby vous emmenez vos fils? Bof c'est nul désolé Bon match sans ou avec hollande?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "5": {
+        "tweet": "@TacusselVictor @rubsaura Pas de doute, ce pistonné ne peut être que le fils caché d'Hollande et d'Hidalgo.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "6": {
+        "tweet": "@ArseneAhouansou @RoyalCalin François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Anne Hidalgo est récemment",
+        "score": 2,
+        "label": "neutre"
+    },
+    "7": {
+        "tweet": "@Elysee @fhollande @Anne_Hidalgo @Paris François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore)",
+        "score": 2,
+        "label": "neutre"
+    },
+    "8": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "9": {
+        "tweet": "@chantalanni  Ah bon ! Si c est vrai   C est un tombeur ce F H ! Décidément on aura tout vu pendant ce quinquenat",
+        "score": 2,
+        "label": "neutre"
+    },
+    "10": {
+        "tweet": "@chantalanni il n'y a qu'à regarder s'il a l'air niais",
+        "score": 0,
+        "label": "negatif"
+    },
+    "11": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? un petit test ADN donnerait la réponse sans ambiguité pourquoi ne l'ont-ils pas fait ?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "12": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "13": {
+        "tweet": "@Europe1 @Anne_Hidalgo comme un air de famille... Le fils caché de #hollande et #hidalgo ? LoL",
+        "score": 2,
+        "label": "neutre"
+    },
+    "14": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "15": {
+        "tweet": "m.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "16": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "17": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Publié par La rédaction le Jeudi 09 Avril 2015 : 16h09",
+        "score": 2,
+        "label": "neutre"
+    },
+    "18": {
+        "tweet": "@tontonflingueu3 François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Anne Hidalgo est récemment revenue",
+        "score": 2,
+        "label": "neutre"
+    },
+    "19": {
+        "tweet": "@SenateurRYung http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "20": {
+        "tweet": "...outai papa outai http://fb.me/6yiN3xCiP",
+        "score": 0,
+        "label": "negatif"
+    },
+    "21": {
+        "tweet": "Fogiel à Hidalgo \"vous remettez votre truc très poli\" http://www.telestar.fr/2015/videos/Anne-Hidalgo-Francois-Hollande-est-il-le-pere-de-son-fils-Elle-repond-a-la-rumeur-Video-96043 … la langue fr. tjours aussi maltraitée par c tocards télévisuels",
+        "score": 2,
+        "label": "neutre"
+    },
+    "22": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle ... http://mes-actus.fr/?p=125181  #alaune",
+        "score": 2,
+        "label": "neutre"
+    },
+    "23": {
+        "tweet": "Fogiel à Anne Hidalgo \"vous remettez votre truc très poli\" http://www.telestar.fr/2015/videos/Anne-Hidalgo-Francois-Hollande-est-il-le-pere-de-son-fils-Elle-repond-a-la-rumeur-Video-96043 … Quel effroi... la langue fr. par les tocards télévisuels",
+        "score": 3,
+        "label": "positif"
+    },
+    "24": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la rumeur [Vidéo] http://www.telestar.fr/2015/videos/Anne-Hidalgo-Francois-Hollande-est-il-le-pere-de-son-fils-Elle-repond-a-la-rumeur-Video-96043 …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "25": {
+        "tweet": "F.Hollande père du fils d’Anne Hidalgo? La maire de Paris dément. Sacré François niqueur ! | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "26": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) Anne Hidalgo est récemment revenue sur la liaison",
+        "score": 2,
+        "label": "neutre"
+    },
+    "27": {
+        "tweet": "alain Blanc La République...Hollande une affaire de famille ? #Hidalgo #Royal et fils #Tierv et fils... http://fb.me/6LpYhJvM8",
+        "score": 2,
+        "label": "neutre"
+    },
+    "28": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet Mobile http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "29": {
+        "tweet": "On parle de la famille Le Pen mais on pourrait aussi parler du clan Hollande : Royal, Hidalgo, Trierweiler mère et fils, Gayet....",
+        "score": 2,
+        "label": "neutre"
+    },
+    "30": {
+        "tweet": "La République...Hollande une affaire de famille ? #Hidalgo #Royal et fils #Tierv et fils http://bit.ly/1CtYR3B  ”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "31": {
+        "tweet": "Hollande a la baraka. Il est père du fils d'Anne Hidalgo disent ses ennemis qui le fustigent, mais lui illico en tire tout le prestige",
+        "score": 2,
+        "label": "neutre"
+    },
+    "32": {
+        "tweet": "François Hollande père du fils d'Anne Hidalgo ? La maire de Paris dément (encore) - http://goo.gl/alerts/MsFo  #GoogleAlerts",
+        "score": 2,
+        "label": "neutre"
+    },
+    "33": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore)",
+        "score": 2,
+        "label": "neutre"
+    },
+    "34": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "35": {
+        "tweet": "Cà vole haut le débat politique en France!! http://fb.me/1ULG4Hy2p",
+        "score": 2,
+        "label": "neutre"
+    },
+    "36": {
+        "tweet": "On s'en bas les c...................... !!! http://fb.me/7y2deoZWH",
+        "score": 2,
+        "label": "neutre"
+    },
+    "37": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … Femme publique",
+        "score": 2,
+        "label": "neutre"
+    },
+    "38": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … Que je respire si je mens!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "39": {
+        "tweet": "ALERTE ALERTE ALERTE ALERTE !!!!le fornicateur hérectus à en core frappé http://fb.me/7fjq21uq2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "40": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "41": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "42": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo La maire de Paris dément (encore) Planet.html http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html?xtor=ES-1-820540[Planet-a-la-Une]-20150410 …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "43": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris réagit http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html?xtor=ES-1-820540[Planet-a-la-Une]-20150410 …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "44": {
+        "tweet": "Fils caché, compagne non divorcée... Toutes les réponses aux rumeurs sur François Hollande  prolifèrent... http://po.st/emUCeV  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "45": {
+        "tweet": "m.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "46": {
+        "tweet": "En attendant ce père est inconnu#François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "47": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "48": {
+        "tweet": "Qu'elle fasse ce qu'il faut pour prouver de qui il est ce gamin http://fb.me/4bm2Egfj3",
+        "score": 2,
+        "label": "neutre"
+    },
+    "49": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "50": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://bit.ly/1O8FR2O",
+        "score": 2,
+        "label": "neutre"
+    },
+    "51": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "52": {
+        "tweet": "François Hollande père du fils d'Anne Hidalgo ? La maire de Paris dément (enco... http://bit.ly/1EbVTWX  #Elysée http://fac.free.fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "53": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://bit.ly/1FmRUbA",
+        "score": 2,
+        "label": "neutre"
+    },
+    "54": {
+        "tweet": "Ça Alors ! des sacrés loulous en politique ! http://fb.me/1W33QYat2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "55": {
+        "tweet": "Lire sur @Planet_fr François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://ow.ly/2X9m2x",
+        "score": 2,
+        "label": "neutre"
+    },
+    "56": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) | Planet http://www.planet.fr/politique-francois-hollande-pere-du-fils-danne-hidalgo-la-maire-de-paris-dement-encore.834650.29334.html … via @planet_fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "57": {
+        "tweet": "François Hollande père du fils d’Anne Hidalgo ? La maire de Paris dément (encore) http://bit.ly/1O8FR2O",
+        "score": 2,
+        "label": "neutre"
+    },
+    "58": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la rumeur [Vidéo] http://www.telestar.fr/2015/videos/Anne-Hidalgo-Francois-Hollande-est-il-le-pere-de-son-fils-Elle-repond-a-la-rumeur-Video-96043 … via @Telestarmag",
+        "score": 2,
+        "label": "neutre"
+    },
+    "59": {
+        "tweet": ". @Anne_Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la rumeur (@FogielMarcO) [Vidéo] >> http://bit.ly/1Gow2g2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "60": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la... http://bit.ly/1CUpYbt  #Elysée http://fac.free.fr",
+        "score": 2,
+        "label": "neutre"
+    },
+    "61": {
+        "tweet": "Anne Hidalgo : François Hollande est-il le père de son fils ? Elle répond à la rumeur [Vidéo] http://goo.gl/fb/S9kRc3",
+        "score": 2,
+        "label": "neutre"
+    },
+    "62": {
+        "tweet": "@blaemag @nausicalibre @SylvieD83 C'est le fils de #Hollande avec #Hidalgo",
+        "score": 2,
+        "label": "neutre"
+    },
+    "63": {
+        "tweet": "Coût de l' enfant de François Hollande et Anne Hidalgo pour les contribuables ? http://www.observatoiredesgaspillages.com/2014/combien-coute-l-enfant-de-francois-hollande-et-anne-hidalgo-aux-contribuables/ … Hollande tel père tel fils Mitterrand",
+        "score": 2,
+        "label": "neutre"
+    },
+    "64": {
+        "tweet": "#Hollande, #Hidalgo, enfant caché et censure de #Twitter | http://24heuresactu.com  http://bit.ly/1xDw4rT  …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "65": {
+        "tweet": "A LIRE VITE AVANT CENSURE ? \"Hollande, Hidalgo, enfant caché et censure de Twitter |\" http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "66": {
+        "tweet": "#Hollande, #Hidalgo, enfant caché et censure de #Twitter | http://24heuresactu.com  http://bit.ly/1xDw4rT  …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "67": {
+        "tweet": "@Anne_Hidalgo Faut quand même être demeuré pour vouloir censurer une rumeur. #streysand #librexpression http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "68": {
+        "tweet": "#Hollande, #Hidalgo, enfant caché et censure de #Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "69": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "70": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "71": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "72": {
+        "tweet": "#Hollande #Hidalgo> l'ENFANT CACHÉ‼️ CENSURE SOCIALISTE de Twitter, mis en demeure de faire cesser les rumeurs http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "73": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "74": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "75": {
+        "tweet": "@eurovinnland @JionelLospin http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "76": {
+        "tweet": "@Anne_Hidalgo d'ou est-ce qu'elle décide hidalgo?C'est au PR et au gvt de decider pas à la nulle. Qu'elle s'occupe de son fils avec hollande",
+        "score": 2,
+        "label": "neutre"
+    },
+    "77": {
+        "tweet": "Au fait, j'ai entendu ce soir que le fils d'Anne Hidalgo était de François Hollande, niveau bullshit c'est élevé ou crédible ?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "78": {
+        "tweet": "@20rueducirque2 @marclahen @lacuriosite85 @LEXPRESS Ce n'est pas un scoop le fils Hollande avec Hidalgo histoire ancienne et connue!!!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "79": {
+        "tweet": "#Hollande et #hidalgo l'amant et sa maitresse leur fils est au 1er rang !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "80": {
+        "tweet": "La Liberté d'Expression de nos jours? C'est comme si un Socialo avait du Courage ...! http://tinyurl.com/93nu6x2  .. #fh2012 #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "81": {
+        "tweet": "#Horreur ! Je suis le fils caché de François #Hollande le fils d'Anne #Hidalgo est donc mon frère... Ma vie est définitivement foutue !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "82": {
+        "tweet": "#Hollande #Mitterrand mêmes combats http://lelab.europe1.fr/Un-jeune-politicien-suedois-affirme-etre-le-fils-de-Francois-Mitterrand-15751 … @Julie_Gayet @RoyalSegolene @Anne_Hidalgo @valtrier #OUT",
+        "score": 2,
+        "label": "neutre"
+    },
+    "83": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "84": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "85": {
+        "tweet": "Anne Hidalgo, elle a eu un goss. Elle a accouché à Brive, Hollande était le père.. Un fils caché... et ça peu de gens le savent",
+        "score": 2,
+        "label": "neutre"
+    },
+    "86": {
+        "tweet": "Entre @hidalgo et @fhollande, un enfant caché ou simplement une rumeur ?? http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "87": {
+        "tweet": "RT A HIDALGO a déclaré qu'elle serait Libre vis-à-vis du Gvt HOLLANDE ! elle s'est déjà libérée d HOLLANDE Père d son Fils une 1ère fois lol",
+        "score": 2,
+        "label": "neutre"
+    },
+    "88": {
+        "tweet": "François Hollande a eu un fils avec Ane Hidalgo, actuelle maire de Paris",
+        "score": 2,
+        "label": "neutre"
+    },
+    "89": {
+        "tweet": "@lepenactu saviez-vous que #hollande avait un fils avec #hidalgo?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "90": {
+        "tweet": "coût pour les contribuables du fils que François Hollande a eu avec Anne Hidalgo.. http://ln.is/www.youtube.com/zVQYK …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "91": {
+        "tweet": "Personne parle ce que coûte aux français le fils de hollande et hidalgo le nouveau mazarin , ça rappelle un certain mitterrand et mazarrine",
+        "score": 2,
+        "label": "neutre"
+    },
+    "92": {
+        "tweet": "#VallsPremierMinistre le fils caché d'Anne hidalgo et de François Hollande",
+        "score": 2,
+        "label": "neutre"
+    },
+    "93": {
+        "tweet": "RT #Hollande A UN FILS CACHE AVEC #Hidalgo ET VOUS ET MOI PAYONS TOUS LES JOURS #Quetard #Dehors  http://youtu.be/jGoPP55INTY  via @YouTube",
+        "score": 2,
+        "label": "neutre"
+    },
+    "94": {
+        "tweet": "#Kemlin: #Hidalgo et #Hollande LE FILS CACHE LA VERITE /  candidate mère..: http://youtu.be/jGoPP55INTY  #DehorsLesSocialistes",
+        "score": 2,
+        "label": "neutre"
+    },
+    "95": {
+        "tweet": "#valtrier #HidalgOUT #PSG #Rumeur CocuEs & co #sexe #LGBT #FEMEN http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html … …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "96": {
+        "tweet": "ouf, ... Je préfère Hijo de algo plutôt que Hijo de Hidalgo puisque vous auriez été le fils de #Hollande !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "97": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/OIHmXs  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "98": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "99": {
+        "tweet": "@Wks_69 oui puisqu'elle aura 1 pension et un logement avec Hollande pour ses 3 fils , pas de HOLLANDE ? enfants  déjà avec ROYAL et HIDALGO !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "100": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/Vr58MF  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "101": {
+        "tweet": "Et son gosse a hidalgo le fils a hollande il est ou?a la crèche",
+        "score": 2,
+        "label": "neutre"
+    },
+    "102": {
+        "tweet": "Avec Sarkozy la Liberté d'Expression Régnait et la gôche diffamait sans arrêt la Présidence :  http://tinyurl.com/93nu6x2  #Hidalgo #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "103": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/2czcHd  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "104": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … La gauche est un grand baisodrome!!!",
+        "score": 1,
+        "label": "negatif"
+    },
+    "105": {
+        "tweet": "le message des socialistes en place est clair : quiconque se permet de les critiquer aura à faire à la justice http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "106": {
+        "tweet": "@CyberManin Sous Sarkozy la Parole était Libre et la gôche était avide d'insultes à l'égard de la Présidence: http://tinyurl.com/93nu6x2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "107": {
+        "tweet": "France : Freedom of Expression nowadays? It is as if one Socialist has a bit of courage !  http://tinyurl.com/93nu6x2  ..  #Prism #Snowden",
+        "score": 2,
+        "label": "neutre"
+    },
+    "108": {
+        "tweet": "Sous Sarkozy la Parole était Libre, et la gôche était avide d'insultes à l'égard de la Présidence :   http://tinyurl.com/93nu6x2  .. #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "109": {
+        "tweet": "Article de 2012 :Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/7TcvQW  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "110": {
+        "tweet": "Pourquoi les journalistes ne parlent pas du fils de hollande avec Anne hidalgo?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "111": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/ubdtpo  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "112": {
+        "tweet": "@Clumsy9 ??? Ils ont pourtant un point commun : un enfant http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "113": {
+        "tweet": "@BesacTof @benj_st pas à avoir peur, juste à être correct Je ne parle pas du fils caché de Hollande avec Hidalgo, je respecte abs de preuve",
+        "score": 2,
+        "label": "neutre"
+    },
+    "114": {
+        "tweet": "France : Freedom of Expression nowadays? It is as if one Socialist has courage !  http://tinyurl.com/93nu6x2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "115": {
+        "tweet": "Avec Sarkozy la Liberté d'Expression Régnait et la gôche diffamait sans arrêt la Présidence : http://tinyurl.com/93nu6x2  #ConfPR #FNPS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "116": {
+        "tweet": "Z'êtes au courant ? Paraîtrait que Hollande aurait un fils caché avec Anne Hidalgo. #radiocancan # rumeur qui court #J'adore !",
+        "score": 2,
+        "label": "neutre"
+    },
+    "117": {
+        "tweet": "Pour le père une actrice, pour le fils une chanteuse, et l'ex un humouriste! ajoutes Enrico  pour Hidalgo.!Bling bling les royal-hollande-PS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "118": {
+        "tweet": "Maintenant que #Hollande confirme la rumeur de liaison avec Gayet Confirmera-t-il l'autre rumeur concernant sa paternité du fils de Hidalgo?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "119": {
+        "tweet": "Fils caché avec Hidalgo, compagne non divorcée, ovnis : François Hollande victime des rumeurs | Atlantico http://po.st/uoB8Op  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "120": {
+        "tweet": "Hidalgo a demandé à Twitter d'effacer toutes les rumeurs à son égard ) Atlantico http://po.st/3RsjVF  via @po_st”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "121": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/AEgwK5  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "122": {
+        "tweet": "@GBehague @MdameMichu @Anne_Hidalgo c'est pas un adjoint c'est son fils caché avec François Hollande : Air hautain, crache sur la droite.",
+        "score": 2,
+        "label": "neutre"
+    },
+    "123": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/3RsjVF  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "124": {
+        "tweet": "On dirait le fils caché d'anne Hidalgo et de François Hollande.....nouvelle image du tireur ! http://bit.ly/1by2kkv",
+        "score": 1,
+        "label": "negatif"
+    },
+    "125": {
+        "tweet": "Le boloss mis en exergue par les laquais de #Itélé ressemble à s'y méprendre à  #hollande jeune: un fils caché ? #hidalgo #copains et coquins",
+        "score": 2,
+        "label": "neutre"
+    },
+    "126": {
+        "tweet": "La #censure c'est #maintenant et pas en #Corée du #Nord mais au #PS, http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "127": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/KvZKlf  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "128": {
+        "tweet": "Le message des socialistes est clair : quiconque se permet de les critiquer aura à faire à la justice http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "129": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "130": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "131": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "132": {
+        "tweet": "Bel article ! Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "133": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "134": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "135": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "136": {
+        "tweet": "#Hollande, #Hidalgo, enfant caché et censure de Twitter  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "137": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "138": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "139": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs ??? | Atlantico http://po.st/DnNcuC  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "140": {
+        "tweet": "IL Y A UN AN... ÇA COMMENÇAIT PLUTÔT MAL POUR FRANÇOIS HOLLANDE !!! Fils caché, compagne non divorcée... Toutes... http://fb.me/267u5oVbg",
+        "score": 2,
+        "label": "neutre"
+    },
+    "141": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter ?http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "142": {
+        "tweet": "RT ILS SONT FOU Plus aucune limite à la censure Socialiste http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … BIENTOT \" Ecoutes\" des conversations privés des FRANCAIS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "143": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "144": {
+        "tweet": "La censure!! http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "145": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "146": {
+        "tweet": "Fils caché, compagne non divorcée.Toutes les réponses aux rumeurs sur  Hollande En savoir plus  http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "147": {
+        "tweet": "@telmoro  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "148": {
+        "tweet": "“@SylvieDuribreux: Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/#hollande … démission",
+        "score": 1,
+        "label": "negatif"
+    },
+    "149": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "150": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "151": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "152": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "153": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "154": {
+        "tweet": "#Hollande &  #Hidalgo amants, enfant caché et censure !!! elle est belle la #Gauche -  http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "155": {
+        "tweet": "Hollande, Hidalgo, enfant caché et... CENSURE SUR TWITTER.. LE RESTE ON S'EN CONTREFICHE ! |http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "156": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "157": {
+        "tweet": "24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "158": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  .com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-",
+        "score": 1,
+        "label": "negatif"
+    },
+    "159": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "160": {
+        "tweet": "@anclod15:Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … voilà la dictature socialo",
+        "score": 1,
+        "label": "negatif"
+    },
+    "161": {
+        "tweet": "Pouvoir socialiste : La liberté d'expression en danger ? http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "162": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "163": {
+        "tweet": "La liberté d’expression ? Hypocrisie du #PS ? http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "164": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://CENSURE.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "165": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "166": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "167": {
+        "tweet": "#Hollande, #Hidalgo, enfant caché et censure de Twitter #HidalgAuRevoir http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/",
+        "score": 1,
+        "label": "negatif"
+    },
+    "168": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "169": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "170": {
+        "tweet": "Hidalgo, ancienne maîtresse de Hollande (Après que Ségolène soit partit avec un certain ... Ayrault) : http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …#StopHidalgo",
+        "score": 2,
+        "label": "neutre"
+    },
+    "171": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "172": {
+        "tweet": "Aujourd'hui la France est opprimée par la Dictature Hollande qui confisque la Liberté d'Expression !  http://tinyurl.com/93nu6x2    #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "173": {
+        "tweet": "#onpc ne dira pas qu'il n'ya pas de primaire a gauche car Hollande pere du fils d'Hidalgo et Le Guen a eut la Region #Paris2014",
+        "score": 2,
+        "label": "neutre"
+    },
+    "174": {
+        "tweet": "Inside info: Le Guen n'est pas candidat a Paris car Hollande pere du fils d'Hidalgo lui a promit le poste de Huchon a la Region #Paris2014",
+        "score": 2,
+        "label": "neutre"
+    },
+    "175": {
+        "tweet": "@Valvert http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … mais on a pas le droit de le dire",
+        "score": 2,
+        "label": "neutre"
+    },
+    "176": {
+        "tweet": "Fils caché, compagne non divorcée : François Hollande victime des rumeurs | Atlantico http://po.st/IeCZSU  via @po_st",
+        "score": 2,
+        "label": "neutre"
+    },
+    "177": {
+        "tweet": "@LeMondeDeTom @fredbresson http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "178": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://fb.me/1dAWyy7yX",
+        "score": 2,
+        "label": "neutre"
+    },
+    "179": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "180": {
+        "tweet": "@dan_romero_83 @nk_m  Fils caché compagne non divorcée Ces rumeurs sur François Hollande qui  prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "181": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "182": {
+        "tweet": "@QuiotF oui et avec amanda lear aussi ? hoax .. http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "183": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "184": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "185": {
+        "tweet": "Tant qu'on est au jeu des sept familles, c'est qui le fils caché de Hollande et Hidalgo ?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "186": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "187": {
+        "tweet": "... RT @Mostengo: Hollande, Hidalgo, enfant caché et censure de Twitter http://flpbd.it/Gt4Zp",
+        "score": 1,
+        "label": "negatif"
+    },
+    "188": {
+        "tweet": "@reda971 http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "189": {
+        "tweet": "MELI MELO http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "190": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  #LaLibertédExpression #CestPasMaintenant http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "191": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "192": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "193": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "194": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "195": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "196": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "197": {
+        "tweet": "@Mostengo: Hollande, Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "198": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "199": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "200": {
+        "tweet": "“@Samuel_Lafont: Est-ce qu'@Anne_Hidalgo veut légiférer sur sa vie perso ? http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … #MotsCroises @MotsCroises” Minable ...",
+        "score": 2,
+        "label": "neutre"
+    },
+    "201": {
+        "tweet": "“@Samuel_Lafont: Est-ce qu'@Anne_Hidalgo veut légiférer sur sa vie perso ?http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … #MotsCroises @MotsCroises”RT",
+        "score": 2,
+        "label": "neutre"
+    },
+    "202": {
+        "tweet": "Hidalgo-Hollande. http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "203": {
+        "tweet": "#morandinisation RT @Samuel_Lafont: Est-ce qu'@Anne_Hidalgo veut légiférer sur sa vie perso ? http://bit.ly/RkYFMK",
+        "score": 2,
+        "label": "neutre"
+    },
+    "204": {
+        "tweet": "Minable : “@Samuel_Lafont: Est-ce qu'@Anne_Hidalgo veut légiférer sur sa vie perso ? http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … #MotsCroises @MotsCroises”",
+        "score": 2,
+        "label": "neutre"
+    },
+    "205": {
+        "tweet": "Est-ce qu'@Anne_Hidalgo veut légiférer sur sa vie perso ? http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … #MotsCroises @MotsCroises",
+        "score": 2,
+        "label": "neutre"
+    },
+    "206": {
+        "tweet": "Hollande Hidalgo et la censure sur tweeter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "207": {
+        "tweet": "http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "208": {
+        "tweet": "“@AlfredMichu: Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …” La censure socialiste.",
+        "score": 1,
+        "label": "negatif"
+    },
+    "209": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter : http://wat.tf/1BM0PmF  \"La liberté d’expression, c’est maintenant !\"",
+        "score": 1,
+        "label": "negatif"
+    },
+    "210": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter -http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "211": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "212": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "213": {
+        "tweet": "“@adrenaline1001: Hollande, Hidalgo, enfant caché et censure de Twitter !  Qui se sent morveux se mouche !! http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …”",
+        "score": 1,
+        "label": "negatif"
+    },
+    "214": {
+        "tweet": "@adrenaline1001 C’est beau la démocratie socialiste ! [...] ces gens là ont voté les pleins pouvoirs au Maréchal Pétain…http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "215": {
+        "tweet": "RETOUR DE LA CENSURE SOCIALISTE :Hollande, Hidalgo, enfant caché et censure de Twitter !http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "216": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "217": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "218": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "219": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "220": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "221": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "222": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "223": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "224": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "225": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "226": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "227": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "228": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "229": {
+        "tweet": "#Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "230": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "231": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "232": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "233": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "234": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "235": {
+        "tweet": "Démocratie à la sauce socialo ? Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "236": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "237": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "238": {
+        "tweet": "Hollande Hidalgo, enfant caché et censure de Twitter C’est beau la démocratie socialiste ...et la liberté d'expression http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "239": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "240": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "241": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "242": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "243": {
+        "tweet": "Aujourd'hui la France est opprimée par la Dictature Hollande qui confisque la Liberté d'Expression !  http://tinyurl.com/93nu6x2   #Koréa",
+        "score": 2,
+        "label": "neutre"
+    },
+    "244": {
+        "tweet": "Sous Sarkozy la Parole était Libre, et la gôche était avide d'insultes à l'égard de la Présidence :   http://tinyurl.com/93nu6x2  .. #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "245": {
+        "tweet": "France : Freedom of Expression nowadays? It is as if one Socialist has courage !  http://tinyurl.com/93nu6x2  ..  #NS2017 #fh2012 #tfb",
+        "score": 2,
+        "label": "neutre"
+    },
+    "246": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "247": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "248": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "249": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "250": {
+        "tweet": "La Liberté d'Expression de nos jours? C'est comme si un Socialo avait du Courage ...!   http://tinyurl.com/93nu6x2  ..  #NS2017 #fh2012 #tfb",
+        "score": 2,
+        "label": "neutre"
+    },
+    "251": {
+        "tweet": "France : Freedom of Expression nowadays? It is as if one Socialist has courage !  http://tinyurl.com/93nu6x2  ..  #NS2017 #fh2012  #Hollande",
+        "score": 2,
+        "label": "neutre"
+    },
+    "252": {
+        "tweet": "La Liberté d'Expression de nos jours? C'est comme si un Socialo avait du Courage ...!   http://tinyurl.com/93nu6x2  ..  #NS2017 #fh2012 #tfb",
+        "score": 2,
+        "label": "neutre"
+    },
+    "253": {
+        "tweet": "Sous Sarkozy la Parole était Libre, et la gôche était avide d'insultes à l'égard de la Présidence :   http://tinyurl.com/93nu6x2  .. #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "254": {
+        "tweet": "Avec Sarkozy la Liberté d'Expression Régnait et la gôche a diffamé sans arrêt la Présidence :  http://tinyurl.com/93nu6x2  #Hidalgo #NS2017",
+        "score": 2,
+        "label": "neutre"
+    },
+    "255": {
+        "tweet": "Censure NON ! Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "256": {
+        "tweet": "Aller, chiche, censurez-moi! Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "257": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "258": {
+        "tweet": "Pour la peine... Hollande, Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "259": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "260": {
+        "tweet": "#Hollande #Hidalgo, enfant caché et censure de Twitter http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … Non au retour du terrorisme intellectuel ! #EtatPS #Résistance",
+        "score": 1,
+        "label": "negatif"
+    },
+    "261": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://bit.ly/Sj1Jwv",
+        "score": 1,
+        "label": "negatif"
+    },
+    "262": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "263": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "264": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "265": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "266": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter ça sent bon l'affaire Mazarine tous sa François Hollande... http://fb.me/ZiMjkogd",
+        "score": 1,
+        "label": "negatif"
+    },
+    "267": {
+        "tweet": "Après Pulvar, Aubry, Trierweiler, maintenant Hidalgo, le message des socialistes en place est clair : quiconque... http://fb.me/1LPdMyRrP",
+        "score": 3,
+        "label": "positif"
+    },
+    "268": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … C’est si beau la démocratie socialiste !",
+        "score": 1,
+        "label": "negatif"
+    },
+    "269": {
+        "tweet": "#Normal1er  #lahontedelafrance , Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "270": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "271": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ … #hollande & la censure",
+        "score": 1,
+        "label": "negatif"
+    },
+    "272": {
+        "tweet": "Et #Hidalgo remplace bientôt #Aubry ? #Hollande, #Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "273": {
+        "tweet": "Pourquoi personne n'en parle??? Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "274": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "275": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "276": {
+        "tweet": "@Anne_Hidalgo pourquoi censurer#Twitter?peur de la liberté d'expression?#Hollande #Hidalgo enfant caché et censure http://tinyurl.com/93nu6x2",
+        "score": 2,
+        "label": "neutre"
+    },
+    "277": {
+        "tweet": "Quelle est le problème des socialistes et de la gauche française avec la liberté d’expression ?: http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "278": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …  retour de la censure socialiste",
+        "score": 1,
+        "label": "negatif"
+    },
+    "279": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter | http://24heuresactu.com  http://24heuresactu.com/2012/08/21/hollande-hidalgo-fils-cache-et-censure-de-twitter/ …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "280": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://tinyurl.com/9d54tlo",
+        "score": 1,
+        "label": "negatif"
+    },
+    "281": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://bit.ly/PRisYh",
+        "score": 1,
+        "label": "negatif"
+    },
+    "282": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter http://tinyurl.com/93nu6x2",
+        "score": 1,
+        "label": "negatif"
+    },
+    "283": {
+        "tweet": "Hollande, Hidalgo, enfant caché et censure de Twitter - http://24heuresactu.com : Hollande, Hidalgo, enfant caché et ... http://bit.ly/SMzl3g",
+        "score": 1,
+        "label": "negatif"
+    },
+    "284": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "285": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "286": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "287": {
+        "tweet": "Un article *vraiment* intéressant sur les rumeurs paru dans @atlantico_fr (http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …). À lire d'urgence ! #Rumeur #FH #Hollande",
+        "score": 2,
+        "label": "neutre"
+    },
+    "288": {
+        "tweet": "@Dreuz_1fo @DebbieGoudy1 Un article *vraiment* intéressant sur les rumeurs paru dans @atlantico_fr (http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …). À lire d'urgence!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "289": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "290": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "291": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "292": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "293": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://bit.ly/MNplVU",
+        "score": 2,
+        "label": "neutre"
+    },
+    "294": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "295": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "296": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet -http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "297": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "298": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "299": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "300": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "301": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "302": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet... http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "303": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "304": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "305": {
+        "tweet": "Tout est faux... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "306": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "307": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "308": {
+        "tweet": "AMOURS  CACHÉS http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "309": {
+        "tweet": "MÉLI  MÉLO  SOCIALOS BOBOS http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "310": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "311": {
+        "tweet": "Fils caché, compagne non divorcée..Ces rumeurs sur François Hollande qui prolifèrent sur Internet - http://tinyurl.com/9j4jmzm  -Et si c'était vrai!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "312": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande .. | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html … C un homme normal?",
+        "score": 2,
+        "label": "neutre"
+    },
+    "313": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "314": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "315": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "316": {
+        "tweet": "#Hollande francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee.... #LeRidiculeCestMaintenant",
+        "score": 2,
+        "label": "neutre"
+    },
+    "317": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "318": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "319": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://goo.gl/68cIM",
+        "score": 2,
+        "label": "neutre"
+    },
+    "320": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "321": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "322": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "323": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "324": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://goo.gl/68cIM",
+        "score": 2,
+        "label": "neutre"
+    },
+    "325": {
+        "tweet": "“Fils caché, compagne non divorcée...Ces rumeurs sur F.Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …” @DebbieGoudy1",
+        "score": 2,
+        "label": "neutre"
+    },
+    "326": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "327": {
+        "tweet": "RT “@msorry_a: Petit topo sur la rumeur en politique avec le cas #Hollande http://goo.gl/68cIM ” Philippe Aldrin était mon prof, excellent!",
+        "score": 3,
+        "label": "positif"
+    },
+    "328": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "329": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "330": {
+        "tweet": "@nana75019 http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "331": {
+        "tweet": "MÉLI MÉLO SOCIALO http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "332": {
+        "tweet": "Petit topo sur la rumeur en politique avec le cas \"François #Hollande\" #Décryptage http://goo.gl/68cIM",
+        "score": 2,
+        "label": "neutre"
+    },
+    "333": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "334": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François #Hollande qui prolifèrent sur Internet http://ow.ly/cOFOS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "335": {
+        "tweet": "À lire  Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://goo.gl/68cIM",
+        "score": 2,
+        "label": "neutre"
+    },
+    "336": {
+        "tweet": "Rumeur fausse pour Atlantico, article d'une sublime nullité... //Fils caché: #Hollande victime des rumeurs | Atlantico http://bit.ly/N3nxwG",
+        "score": 2,
+        "label": "neutre"
+    },
+    "337": {
+        "tweet": "Plus les nanas de Floppy  @fhaollande gesticulent,plus il prend l'eau! http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "338": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "339": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "340": {
+        "tweet": "Ah, la rumeur, elle court, elle court, passe de bouche en oreille... http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 1,
+        "label": "negatif"
+    },
+    "341": {
+        "tweet": "MÉLI MÉLO  SOCIALOS http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "342": {
+        "tweet": "Hollande pere la rigueur...!http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "343": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "344": {
+        "tweet": "http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 0,
+        "label": "negatif"
+    },
+    "345": {
+        "tweet": "Lire les 3 pages + commentaires! -) Ces rumeurs sur #FH qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "346": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "347": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "348": {
+        "tweet": "Fils caché, compagne non divorcée... Pourquoi ces rumeurs sur @FHollande prolifèrent sur Internet ? | http://ow.ly/cOFOS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "349": {
+        "tweet": "Fils caché, compagne non divorcée... Ces #rumeurs sur #Hollande qui prolifèrent sur Internet  http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html … #PS",
+        "score": 2,
+        "label": "neutre"
+    },
+    "350": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet http://goo.gl/68cIM",
+        "score": 2,
+        "label": "neutre"
+    },
+    "351": {
+        "tweet": "Fils caché, compagne non divorcée... Analyse des rumeurs qui prolifèrent sur le chef de l’État | http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "352": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "353": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "354": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet !Vrai ou faux ?http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 3,
+        "label": "positif"
+    },
+    "355": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François #Hollande qui prolifèrent sur Internet http://dlvr.it/1yxvwT",
+        "score": 2,
+        "label": "neutre"
+    },
+    "356": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "357": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "358": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François #Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "359": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "360": {
+        "tweet": "“@DebbieGoudy1: Fils caché, compagne non divorcée...Ces rumeurs sur F.Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "361": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "362": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François ... - Atlantico.fr http://ow.ly/1lSrAz",
+        "score": 2,
+        "label": "neutre"
+    },
+    "363": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "364": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet | Atlantico http://www.atlantico.fr/decryptage/francois-hollande-rumeurs-internet-fils-cache-anne-hidalgo-compagne-non-divorcee-philippe-aldrin-jean-vigreux-443772.html …",
+        "score": 2,
+        "label": "neutre"
+    },
+    "365": {
+        "tweet": "Fils caché, compagne non divorcée... Ces rumeurs sur François ... - Atlantico.fr: Fils caché, compagne non divor... http://bit.ly/QE9c99",
+        "score": 2,
+        "label": "neutre"
+    },
+    "366": {
+        "tweet": "On me souffle dans l'oreillette que Michel #Hidalgo aurait un fils caché en #hollande",
+        "score": 2,
+        "label": "neutre"
+    },
+    "367": {
+        "tweet": "#Hidalgo veut faire supprimer les tweets parlant de don fils avec #Hollande? Mais je suis 100% pour. Il ne faut pas RT cette rumeur!",
+        "score": 2,
+        "label": "neutre"
+    },
+    "368": {
+        "tweet": "Le peuple fait la fête a Montparnasse, a Paris avec Delanoe, Hidalgo, Huchon, le fils Hollande ... Du pain et des jeux, vive le peuple !",
+        "score": 3,
+        "label": "positif"
+    },
+    "369": {
+        "tweet": "Enfin, Normale but it's not is it.... Et le fils caché que Hollande a eu avec Anne Hidalgo, la République exemplaire c'est lebal des faux…",
+        "score": 1,
+        "label": "negatif"
+    }
+}
