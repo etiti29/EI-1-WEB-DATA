@@ -1,3 +1,5 @@
+#Algo stanford sur un seul tweet
+
 from stanfordcorenlp import StanfordCoreNLP
 import json
 from langdetect import detect

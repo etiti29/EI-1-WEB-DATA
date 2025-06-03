@@ -1,3 +1,5 @@
+#Algo stanford sur un fichier de tweets
+
 from stanfordcorenlp import StanfordCoreNLP
 import json
 from langdetect import detect

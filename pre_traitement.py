@@ -3,6 +3,27 @@ import json
 import random
 
 def extract_twitter_data(csv_file_path):
+    twitter_data = {}
+    index = 0
+    with open(csv_file_path, mode='r', encoding='utf-8-sig') as file: # 'utf-8-sig' pour gérer les BOM éventuels
+        first = file.read(1) # Lire le premier caractère pour vérifier le délimiteur
+        file.seek(0) #on remet le curseur au début du fichier
+        #2 types de fichiers : avec des guillemets ou sans => 2 types de lecteurs
+        if first == '"':
+            reader = csv.reader(file, delimiter=',', quotechar='"')
+            for row in reader:
+                twitter_data[index] = row[1]
+                index += 1
+        else:
+            reader = csv.DictReader(file, delimiter=';', quotechar='"')
+            for row in reader:
+                twitter_data[index] = row['content']
+                index += 1
+
+    
+    return twitter_data
+
+def extract_twitter_data_files(list_csv_file_path):
     """
     Extrait les données d'un fichier CSV et les transforme en un dictionnaire de dictionnaires.
     
@@ -14,14 +35,7 @@ def extract_twitter_data(csv_file_path):
     """
     twitter_data = {}
     index=0
-    for doc in csv_file_path:
-        """
-        with open(doc, mode='r', encoding='utf-8') as file:
-            reader = csv.DictReader(file, delimiter=';')
-            for row in reader:
-                twitter_data[index] = row['content']
-                index += 1
-        """
+    for doc in list_csv_file_path:
         with open(doc, mode='r', encoding='utf-8-sig') as file: # 'utf-8-sig' pour gérer les BOM éventuels
             first = file.read(1) # Lire le premier caractère pour vérifier le délimiteur
             file.seek(0) #on remet le curseur au début du fichier
