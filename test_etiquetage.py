@@ -23,9 +23,9 @@ with open("sentiment_output.txt", "w", encoding="utf-8") as output_file:
             score = 0.0  # Neutre si la langue est inconnue
 
         # Classification
-        if score >= 0.05:
+        if score >= 0.5:
             label = "positif"
-        elif score <= -0.05:
+        elif score <= -0.5:
             label = "négatif"
         else:
             label = "neutre"
