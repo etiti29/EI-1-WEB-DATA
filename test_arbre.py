@@ -1,10 +1,13 @@
 import numpy as np
 import json
+from sklearn.ensemble import RandomForestClassifier
+
 
 with open("brut_data.txt", mode='r', encoding='utf-8') as file:
         data = json.load(file)
     # Convertir les clés en int
 data = {int(key): [value,0] for key, value in data.items()}
+
 
 
 #créé le vocabluaire associé à l'ensemble des tweets sous la forme d'un dictionnaire qui associe à un mot une liste contenant son identifiant et sa fréquence dans la data
@@ -43,5 +46,13 @@ def vectorisation(tweet,vocabulaire,data):
             vecteur[vocabulaire[x][0]]=TF_IDF(x,tweet,vocabulaire,data)
     return vecteur
 
-print(vectorisation("j'aime trop les bananes",voc,data)[11])W
-print(list(voc.keys())[10])
+
+x_train=[vectorisation(tweet[0]) for tweet in data.values()]
+y_train=[tweet[1] for tweet in data.values()]
+x_test=
+
+
+rf_classifier = RandomForestClassifier(n_estimators=100, random_state=42)
+rf_classifier.fit(x_train, y_train)
+
+y_pred = rf_classifier.predict(x_test)
