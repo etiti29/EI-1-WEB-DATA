@@ -1,12 +1,16 @@
 import numpy as np
 import json
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, accuracy_score
+import joblib
 
+fichier_entrainement="data_traité/data20_etiq.txt"
 
-with open("brut_data.txt", mode='r', encoding='utf-8') as file:
-        data = json.load(file)
-    # Convertir les clés en int
-data = {int(key): [value,0] for key, value in data.items()}
+with open(fichier_entrainement, mode='r', encoding='utf-8') as file:
+    data = json.load(file)
+# Convertir les clés en int
+data = {int(key): value for key, value in data.items()}
+
 
 
 
@@ -14,18 +18,18 @@ data = {int(key): [value,0] for key, value in data.items()}
 def vocabulaire(data):   
     voc={}                  
     i=0
-    for tweet in data.values():
-        mots=tweet[0].split()
+    for content in data.values():
+        mots=content['tweet'].split()
         for k in range(len(mots)):
             if mots[k] in voc.keys():
-                if mots[k] not in tweet[:k-1]:
+                if mots[k] not in mots[:k-1]:
                     voc[mots[k]][1]+=1
             else :
                 voc[mots[k]]=[i,1]
                 i+=1
     return voc
 
-voc=vocabulaire(data)
+
 
 def TF_IDF(mot,tweet,vocabulaire,data): #calcule le score TF IDF d'un mot dans un tweet, connaisant l'ensemble des mots pertinents à considérer ainsi que l'ensemble des tweets du corpus
     tf=0
@@ -46,13 +50,37 @@ def vectorisation(tweet,vocabulaire,data):
             vecteur[vocabulaire[x][0]]=TF_IDF(x,tweet,vocabulaire,data)
     return vecteur
 
-
-x_train=[vectorisation(tweet[0]) for tweet in data.values()]
-y_train=[tweet[1] for tweet in data.values()]
-x_test=
+voc=vocabulaire(data)
 
 
-rf_classifier = RandomForestClassifier(n_estimators=100, random_state=42)
-rf_classifier.fit(x_train, y_train)
+def fit(fichier):
+    x_train=[vectorisation(content["tweet"],voc,data) for content in data.values()]
+    y_train=[content["label"] for content in data.values()]
+    rf_classifier = RandomForestClassifier(n_estimators=100, random_state=42)
+    rf_classifier.fit(x_train, y_train)
+    joblib.dump(rf_classifier, 'random_forest_model.joblib')
 
-y_pred = rf_classifier.predict(x_test)
+#fit(fichier_entrainement)
+
+rf_classifier = joblib.load('random_forest_model.joblib')
+
+def test(fichier):
+    with open(fichier, mode='r', encoding='utf-8') as file:
+        data_test = json.load(file)
+    # Convertir les clés en int
+    data_test = {int(key): value for key, value in data.items()}
+    x_test=[vectorisation(content["tweet"],voc,data) for content in data_test.values()]
+    y_test=[content["label"] for content in data_test.values()]
+    y_pred = rf_classifier.predict(x_test)
+    print("Accuracy:", accuracy_score(y_test, y_pred))
+    print("Classification Report:\n", classification_report(y_test, y_pred))
+
+#test("data_traité/data20_etiq.txt")
+
+
+
+loaded_model = joblib.load('random_forest_model.joblib')
+y_pred = rf_classifier.predict([vectorisation("Learn guitar and popular worship songs with a step-by-step guide in just 30 days!",voc,data)])
+print(y_pred)
+
+#y_pred = rf_classifier.predict(["Play Worship Guitar: Learn guitar and popular worship songs with a step-by-step guide in just 30 days! https://t.co/IO0lufJBdb"])
