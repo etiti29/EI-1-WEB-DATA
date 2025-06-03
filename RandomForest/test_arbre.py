@@ -58,11 +58,11 @@ def fit(fichier):
     y_train=[content["label"] for content in data.values()]
     rf_classifier = RandomForestClassifier(n_estimators=100, random_state=42)
     rf_classifier.fit(x_train, y_train)
-    joblib.dump(rf_classifier, 'random_forest_model.joblib')
+    joblib.dump(rf_classifier, 'RandomForest/random_forest_model.joblib')
 
 #fit(fichier_entrainement)
 
-rf_classifier = joblib.load('random_forest_model.joblib')
+rf_classifier = joblib.load('RandomForest/random_forest_model.joblib')
 
 def test(fichier):
     with open(fichier, mode='r', encoding='utf-8') as file:
