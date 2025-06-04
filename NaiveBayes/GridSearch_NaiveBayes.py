@@ -37,10 +37,10 @@ def load_data_dict(filepath):
 
 if __name__ == "__main__":
     # Charger le jeu de données pour l'apprentissage
-    df = load_data_dict('data_traité/data70_etiq.txt')
+    df = load_data_dict("avis_train_test.txt")
 
     # Utiliser l'intégralité des données pour l'apprentissage
-    X_train = df['tweet']
+    X_train = df['text_avis']
     y_train = df['label']
 
     # Convertir set en liste pour TfidfVectorizer
@@ -57,8 +57,8 @@ if __name__ == "__main__":
 
     # Définir la grille de recherche d'hyperparamètres
     param_grid = {
-        'tfidf__max_features': [1000, 5000, 10000],
-        'clf__alpha': [0.1, 1.0, 10.0]
+        'tfidf__max_features': [500, 1000, 3000, 5000, 7000, 10000, 15000],
+        'clf__alpha': [0.001, 0.01, 0.1, 0.3, 0.5, 1.0, 3.0, 10.0, 30.0]
     }
 
     # Lancer GridSearchCV
