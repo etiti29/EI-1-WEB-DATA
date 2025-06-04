@@ -129,12 +129,12 @@ import pandas as pd
 import json
 
 # Charger le CSV
-df = pd.read_csv('Data_2_etiquete/tweets_foot.csv', encoding='latin1')
+df = pd.read_csv('scrapping_iphone/avis_validation.csv', encoding='latin1')
 # Construire le dictionnaire de dictionnaires
 tweets_dict = {
-    row['tweet_id']: {
-        'tweet_text': row['tweet_text'],
-        'sentiment': row['sentiment']
+    row['id']: {
+        'text_avis': row['text_avis'],
+        'label': row['label']
     }
     for _, row in df.iterrows()
 }
@@ -147,8 +147,8 @@ tweets_dict = {
 # tweets_dict = { ... }
 
 # 1. Ouvrir (ou créer) le fichier TXT en écriture
-with open('tweets_dict.txt', 'w', encoding='utf-8') as f:
+with open('avis_validation.txt', 'w', encoding='latin1') as f:
     # 2. Sérialiser le dictionnaire au format JSON avec indent pour lisibilité
     json.dump(tweets_dict, f, ensure_ascii=False, indent=4)
 
-print("Export terminé : 'tweets_dict.txt' créé.")
+print("Export terminé : 'avis_validation.txt' créé.")
