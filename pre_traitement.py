@@ -41,6 +41,7 @@ def extract_twitter_data(csv_file_path):
     return twitter_data
 
 brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
+brut_data_en = extract_twitter_data(['data/swine-flu.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/UEFA_Euro_2016_En.txt'])
         
 def extract_tweets(dict):
     """
@@ -71,6 +72,8 @@ with open('brut_data.txt', mode='w', encoding='utf-8') as file:
     json.dump(brut_data, file, ensure_ascii=False, indent=4)
 with open('data.txt', mode='w', encoding='utf-8') as file:
     json.dump(data, file, ensure_ascii=False, indent=4)
+with open('brut_data_en.txt', mode='w', encoding='utf-8') as file:
+    json.dump(brut_data_en, file, ensure_ascii=False, indent=4)
 
 print("Les dictionnaires ont été sauvegardés.txt")
 

@@ -56,6 +56,7 @@ def etiquette(tweet):
         lemma = token.lemma_.lower()
         pos = token.pos_
         mot = token.text.lower()
+        print (lemma)
 
         # Activation de la négation si on trouve un "ne", "pas", "plus", etc.
         if lemma in {"ne", "pas", "plus", "jamais", "aucun", "point", "n'"}:
@@ -65,6 +66,7 @@ def etiquette(tweet):
 
         # Vérification si le mot est dans le lexique
         if lemma in positivité:
+            print("oui")
             score = positivité[lemma]
             poids = poids_pos.get(pos, 0)
 
@@ -109,7 +111,7 @@ def etiquette(tweet):
 def etiquetage(dictionnaire):
     return {i: [dictionnaire[i], etiquette(dictionnaire[i])] for i in dictionnaire}
 
-etiquette("Le peuple fait la fête a Montparnasse, a Paris avec Delanoe, Hidalgo, Huchon, le fils Hollande ... Du pain et des jeux, vive le peuple !")
+etiquette("Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet")
 
 
 
