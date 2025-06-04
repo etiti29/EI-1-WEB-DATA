@@ -14,7 +14,7 @@ def vocabulaire(data):
     voc = {}                  
     i = 0
     for content in data.values():
-        mots = content['tweet'].split()
+        mots = content['text_avis'].split()
         for k in range(len(mots)):
             if mots[k] in voc.keys():
                 if mots[k] not in mots[:k]:
@@ -59,16 +59,16 @@ class CustomVectorizer(BaseEstimator, TransformerMixin):
 # --- Chargement des données ---
 
 def load_data(filepath):
-    with open(filepath, mode='r', encoding='utf-8') as file:
+    with open(filepath, mode='r', encoding='latin1') as file:
         data = json.load(file)
     data = {int(key): value for key, value in data.items()}
-    X = [v['tweet'] for v in data.values()]
+    X = [v['text_avis'] for v in data.values()]
     y = [v['label'] for v in data.values()]
     return X, y, data
 
 if __name__ == "__main__":
     # Charger données
-    fichier = "data_traité/data20_etiq.txt"  # modifie le chemin si besoin
+    fichier = "RandomForest/avis_train_test.txt"  # modifie le chemin si besoin
     X, y, data_dict = load_data(fichier)
 
     # Construire vocabulaire
