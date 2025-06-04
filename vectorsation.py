@@ -11,9 +11,14 @@ def TF_IDF(mot,tweet,vocabulaire,data): #calcule le score TF IDF d'un mot dans u
     idf = np.log(len(data.keys()/vocabulaire[mot][1]))
     return (1+ np.log(tf))*idf
 
-def vectorisation(tweet,vocabulaire,data):
-    vecteur= [0 for i in range( len( vocabulaire.keys() ) ) ]
-    tweet_split=tweet.split()
+def vectorisation(tweet, vocabulaire, data):
+    """
+    Transforme un tweet en un vecteur de scores TF-IDF pour chaque mot du vocabulaire.
+    Chaque position du vecteur correspond à un mot du vocabulaire.
+    """
+    vecteur = [0 for i in range(len(vocabulaire.keys()))]  # Initialise le vecteur à 0
+    tweet_split = tweet.split()  # Découpe le tweet en mots
     for x in tweet_split:
-        vecteur[vocabulaire[x][0]]=TF_IDF(x,tweet,vocabulaire,data)
+        # Calcule le score TF-IDF pour chaque mot et l'affecte à la bonne position dans le vecteur
+        vecteur[vocabulaire[x][0]] = TF_IDF(x, tweet, vocabulaire, data)
     return vecteur
