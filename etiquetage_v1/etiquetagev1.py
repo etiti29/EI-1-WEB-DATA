@@ -63,6 +63,19 @@ def etiquette(tweet):
 
     for token in doc:
         mot = token.text.lower()
+        print (lemma)
+
+        # Activation de la négation si on trouve un "ne", "pas", "plus", etc.
+        if lemma in {"ne", "pas", "plus", "jamais", "aucun", "point", "n'"}:
+            negation_active = True
+            print("neg")
+            continue
+
+        # Vérification si le mot est dans le lexique
+        if lemma in positivité:
+            print("oui")
+            score = positivité[lemma]
+            poids = poids_pos.get(pos, 0)
         pos = token.pos_
         poids = poids_pos.get(pos, 0)
 
@@ -92,6 +105,7 @@ def etiquette(tweet):
 def etiquetage(dictionnaire):
     return {i: [dictionnaire[i], etiquette(dictionnaire[i])] for i in dictionnaire}
 
+etiquette("Fils caché, compagne non divorcée... Ces rumeurs sur François Hollande qui prolifèrent sur Internet")
 etiquette("Le nombre de mort augementer")
 
 

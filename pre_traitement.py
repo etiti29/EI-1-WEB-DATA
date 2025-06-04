@@ -54,7 +54,8 @@ def extract_twitter_data_files(list_csv_file_path):
     
     return twitter_data
 
-#brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
+brut_data = extract_twitter_data(['data/hollande.txt','data/lemon.txt','data/pin.txt','data/swine-flu.txt','data/randomtweets1.txt','data/randomtweets2.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/RihannaConcert2016Fr.txt','data/rumors_disinformation.txt','data/UEFA_Euro_2016_En.txt','data/UEFA_Euro_2016_Fr.txt'])
+brut_data_en = extract_twitter_data(['data/swine-flu.txt','data/randomtweets3.txt','data/randomtweets4.txt','data/RihannaConcert2016En.txt','data/UEFA_Euro_2016_En.txt'])
         
 def extract_tweets(dict):
     """
@@ -92,30 +93,15 @@ def save_tweets(tweets, file_path):
         json.dump(tweets, file, ensure_ascii=False, indent=4)
 
 # Sauvegarder le dictionnaire dans un fichier texte
-#save_tweets(brut_data, 'brut_data.txt')    
-#save_tweets(data, 'data.txt')
+with open('brut_data.txt', mode='w', encoding='utf-8') as file:
+    json.dump(brut_data, file, ensure_ascii=False, indent=4)
+with open('data.txt', mode='w', encoding='utf-8') as file:
+    json.dump(data, file, ensure_ascii=False, indent=4)
+with open('brut_data_en.txt', mode='w', encoding='utf-8') as file:
+    json.dump(brut_data_en, file, ensure_ascii=False, indent=4)
 
-#print("Les dictionnaires ont été sauvegardés.txt")
+print("Les dictionnaires ont été sauvegardés.txt")
 
-def read_saved_tweets(file_path):
-    """
-    Lit un fichier JSON contenant les tweets sauvegardés et retourne le contenu sous forme de dictionnaire.
-    
-    Args:
-        file_path (str): Chemin vers le fichier JSON.
-    
-    Returns:
-        dict: Dictionnaire contenant les tweets.
-    """
-    with open(file_path, mode='r', encoding='utf-8') as file:
-        data = json.load(file)
-    # Convertir les clés en int
-    data = {int(key): value for key, value in data.items()}
-    return data
-
-# Exemple d'utilisation
-#tweets_words = read_saved_tweets('data.txt')
-#print(tweets_words[0])  # Affiche les mots du tweet avec l'ID 0
 
 #####
 
