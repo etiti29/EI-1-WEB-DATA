@@ -52,7 +52,12 @@ I. Sentimental analysis twitter
 
     Nous avons eu recours à trois algorithmes différents pour réaliser l'aprentissage et la sentimental analysis. 
 
-    Random Forest
+    Random Forest :
+        C:\Users\etien\Documents\etudes\CS\EI DATA WEB\EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\random_forest.py
+        1. Pour fit le modèle unhashtaguer ligne 84 et préciser le nom du fichier d'entrainement ligne 7.
+        2. Pour tester le modele unhashtaguer ligne 85 et préciser le nom du fichier de validation
+        3. pour tester vous même le modele sur un exemple unhashtaguer ligne 91 à 93 et préciser dans la variable tweet votre exemple 
+
 
     NaiveBayes :
         - naivebayes.py :
@@ -126,3 +131,5 @@ II. Product satisfaction (iphone)
 
 
     Etiquetage : 
+
+    

@@ -24,7 +24,7 @@ produit_lexique = {
     "fonctionne": "1", "batterie": "1", "écran": "1", "rapide": "1",
     "satisfait": "1", "qualité": "1", "livraison": "0.8"
 }
-
+# Note : Le lexique ci-dessus est un exemple simplifié. Il doit être enrichi pour une utilisation réelle.
 def analyse(phrase):
     """
     Analyse syntaxique et sémantique d’une phrase pour calculer un score de sentiment.

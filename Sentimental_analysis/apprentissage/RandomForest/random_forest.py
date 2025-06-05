@@ -4,7 +4,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score
 import joblib
 
-fichier_entrainement="scrapping_iphone/AVIS TXT/avis_train.txt"
+fichier_entrainement="Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_train.txt"
+# pour le cas des tweets on peut utiliser le fichier Sentimental_analysis/Twitter/data/data_traité/data70_etiq.txt
 
 with open(fichier_entrainement, mode='r', encoding='utf-8') as file:
     data = json.load(file)
@@ -30,7 +31,7 @@ def vocabulaire(data):
     return voc
 
 
-
+# Calcule le score TF-IDF d'un mot dans un tweet, connaissant l'ensemble des mots pertinents à considérer ainsi que l'ensemble des tweets du corpus
 def TF_IDF(mot,tweet,vocabulaire,data): #calcule le score TF IDF d'un mot dans un tweet, connaisant l'ensemble des mots pertinents à considérer ainsi que l'ensemble des tweets du corpus
     tf=0
     tweet_split = tweet.split()
@@ -42,6 +43,7 @@ def TF_IDF(mot,tweet,vocabulaire,data): #calcule le score TF IDF d'un mot dans u
     idf = np.log(len(data.keys())/vocabulaire[mot][1])
     return (1+ np.log(tf))*idf
 
+# Transforme un tweet en vecteur de caractéristiques en utilisant le vocabulaire et les scores TF-IDF
 def vectorisation(tweet,vocabulaire,data):
     vecteur= [0 for i in range( len( vocabulaire.keys() ) ) ]
     tweet_split=tweet.split()
@@ -52,18 +54,15 @@ def vectorisation(tweet,vocabulaire,data):
 
 voc=vocabulaire(data)
 
-
+# Entraîne le modèle Random Forest sur les données d'entraînement et sauvegarde le modèle
 def fit(fichier):
     x_train=[vectorisation(content["text_avis"],voc,data) for content in data.values()]
     y_train=[content["label"] for content in data.values()]
     rf_classifier = RandomForestClassifier(n_estimators=200, random_state=42,max_depth=None , max_features="sqrt",min_samples_leaf=1,min_samples_split=5)
     rf_classifier.fit(x_train, y_train)
-    joblib.dump(rf_classifier, 'RandomForest/random_forest_model.joblib')
+    joblib.dump(rf_classifier, 'Sentimental_analysis/apprentissage/RandomForest/random_forest_model.joblib')
 
-#fit(fichier_entrainement)
-
-rf_classifier = joblib.load('RandomForest/random_forest_model.joblib')
-
+# Teste le modèle sur un fichier de test et affiche les métriques de performance
 def test(fichier):
     with open(fichier, mode='r', encoding='utf-8') as file:
         data_test = json.load(file)
@@ -80,13 +79,16 @@ def test(fichier):
             k+=1
     print(k, len(y_pred))
 
-test("scrapping_iphone/AVIS TXT/avis_validation.txt")
+rf_classifier = joblib.load('Sentimental_analysis/apprentissage/RandomForest/random_forest_model.joblib')
+
+#fit(fichier_entrainement)
+#test("Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_validation.txt")
+# pour le cas des tweets on peut utiliser le fichier Sentimental_analysis/Twitter/data/data_traité/data10_etiq.txt
 
 
+# Chargement du modèle et prédiction d'un exemple
 '''
-loaded_model = joblib.load('random_forest_model.joblib')
-y_pred = rf_classifier.predict([vectorisation("Parfait ! Reçu très rapidement et comme neuf. Batterie à 100%.",voc,data)])
+tweet = "Parfait ! Reçu très rapidement et comme neuf. Batterie à 100%."
+y_pred = rf_classifier.predict([vectorisation(tweet,voc,data)])
 print(y_pred)
 '''
-
-#y_pred = rf_classifier.predict(["Play Worship Guitar: Learn guitar and popular worship songs with a step-by-step guide in just 30 days! https://t.co/IO0lufJBdb"])
