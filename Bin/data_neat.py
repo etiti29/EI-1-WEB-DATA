@@ -1,4 +1,4 @@
-from pre_traitement import *
+from Sentimental_analysis.Twitter.data.pre_traitement import *
 
 tweets_words = read_saved_tweets('data.txt')
 

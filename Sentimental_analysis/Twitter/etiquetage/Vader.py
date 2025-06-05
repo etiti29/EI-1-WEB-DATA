@@ -3,7 +3,7 @@ from langdetect import detect
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from pattern.fr import sentiment as fr_sentiment
 
-from pre_traitement import read_saved_tweets
+from Sentimental_analysis.Twitter.data.pre_traitement import read_saved_tweets
 
 analyzer = SentimentIntensityAnalyzer()
 dict_tweets = read_saved_tweets('brut_data.txt')

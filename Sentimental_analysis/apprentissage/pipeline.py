@@ -1,5 +1,5 @@
 from transformers import pipeline
-from pre_traitement import extract_twitter_data,save_tweets
+from Sentimental_analysis.Twitter.data.pre_traitement import extract_twitter_data,save_tweets
 
 try:
     # Modèle multilingue performant pour sentiment (ex: 'nlptown/bert-base-multilingual-uncased-sentiment')
