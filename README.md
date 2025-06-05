@@ -1,3 +1,13 @@
 # EI-1-WEB-DATA
 
-contexte :  analyse de données suite a scrapping données twitter
+Sentimental analysis
+
+Summary : 
+I. Sentimental analysis twitter
+II. Product satisfaction (iphone)
+ 
+---------------------------------------------------------------
+
+I. Sentimental analysis twitter
+
+    Etiquetage : 
