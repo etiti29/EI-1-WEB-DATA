@@ -7,12 +7,29 @@ I. Sentimental analysis twitter
 II. Product satisfaction (iphone)
  
 ---------------------------------------------------------------
+Faire cd EI_1_WEB_DATA avant de run les codes. 
 
 I. Sentimental analysis twitter
     Etiquetage : Trois méthodes différentes ont été utilisées afin de réaliser l'étiquetage
         - à la main selon des règles établies en prenant en compte la base de données
         - avec l'algorithme Stanford
         - avec VADER
+
+        A la main : 
+        Deux algorithmes se trouvant dans Twitter/etiquetage
+        - etiquetagev1.py :
+            Ce script effectue un étiquetage de sentiment manuel (positif, négatif, neutre) à partir d’un lexique français et de règles linguistiques (pondération grammaticale, détection de négation).
+            Il prend en entrée un fichier .txt (JSON) contenant les tweets, et génère un fichier tweets_etiquetés.json avec les scores de sentiment.
+
+            Bibliothèques requises
+            pip install spacy
+            python -m spacy download fr_core_news_sm
+
+        - etiquetage_en.py : 
+            sentiment_en_vader.py permet de réaliser un étiquetage automatique de sentiments sur des textes en anglais à l’aide de VADER et spaCy, avec pondération grammaticale et gestion de la négation. À lancer avec :
+            python sentiment_en_vader.py (nécessite un fichier JSON .txt en entrée).
+
+
 
 
 
@@ -69,6 +86,7 @@ I. Sentimental analysis twitter
 II. Product satisfaction (iphone)
 
     Scrapping : 
+        Se trouve dans la partie Iphone/scrapping_iphone
         - scrapping_Cdiscount.py :
         Ce script fonctionne correctement et permet d'extraire les avis clients d’une fiche produit Cdiscount. Il suffit d’exécuter le fichier (python scrapping_Cdiscount.py) après avoir ajouté l’URL du produit dans la variable URLS.
         Bibliothèques nécessaires :
