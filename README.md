@@ -54,16 +54,29 @@ I. Sentimental analysis twitter
 
         1. Chargement des données : Chargement des données d'entraînement (`data70_etiq.txt`) et de test (`data10_etiq.txt`) depuis des fichiers JSON.
         2. Vectorisation TF-IDF : Transformation des textes en vecteurs numériques en utilisant `TfidfVectorizer`.
-        3. Entraînement du modèle : Utilisation de **LinearSVC** pour entraîner un modèle sur les données d'entraînement vectorisées.
+        3. Entraînement du modèle : Utilisation de SVC pour entraîner un modèle sur les données d'entraînement vectorisées.
         4. Évaluation du modèle : Prédiction des sentiments sur les données de test, calcul de l'accuracy, et génération d'un rapport de classification avec la matrice de confusion.
         5. Sauvegarde du modèle : Le modèle entraîné est sauvegardé sous forme de fichier `.joblib` pour une utilisation future.
 
         Avant d'exécuter ce script, il est nécessaire d'installer les bibliothèques suivantes : pip install pandas scikit-learn joblib
 
 
+    GridSearch : 
+        L'outil GridSearch a été utilisé sur les trois algorithmes d'apprentissage afin de comparer les performances de ces derniers.
+        - GridSearchRF.py
+        - GridSearchNB.py
+        - GridSearchSVC.py
 
+        Fonctionnement :
+        - Utilise GridSearchCV pour ajuster les hyperparamètres des modèles suivants :
+            1. SVM (Support Vector Machine)** : Optimisation des paramètres `C`, `kernel`, et `gamma`.
+            2. Naive Bayes : Recherche des meilleurs paramètres pour la vectorisation TF-IDF et le classifieur MultinomialNB.
+            3. Random Forest: Recherche des meilleurs hyperparamètres pour le classificateur RandomForestClassifier.
+        - Chaque modèle est évalué sur un jeu de données de test pour déterminer l'accuracy, générer un rapport de classification et afficher la matrice de confusion.
+        - Sauvegarde du meilleur modèle pour chaque algorithme sous forme de fichier `.joblib`.
 
-    GridSearch
+        Avant d'exécuter ce script, il est nécessaire d'installer les bibliothèques suivantes : pip install pandas scikit-learn joblib stop-words numpy
+
 
 
 II. Product satisfaction (iphone)
