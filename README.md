@@ -35,6 +35,9 @@ I. Sentimental analysis twitter
 
         Stanford : 
         Ce script Python permet d'effectuer [préciser la fonctionnalité principale du fichier]. Il utilise plusieurs bibliothèques populaires pour manipuler et analyser les données, tout en offrant des fonctionnalités telles que [préciser des fonctionnalités spécifiques].
+
+        Il faut installer le package sur le lien https://stanfordnlp.github.io/CoreNLP/download.html puis télécharger le modèle français pour pouvoir gérer à la fois les textes en abglais et en français.
+        
         Avant d'exécuter ce script, il est nécessaire d'installer les bibliothèques suivantes :
 
         pip install numpy pandas matplotlib scipy scikit-learn
