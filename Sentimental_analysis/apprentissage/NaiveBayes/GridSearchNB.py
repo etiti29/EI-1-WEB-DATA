@@ -1,3 +1,20 @@
+"""
+Script de classification de texte par Naive Bayes avec GridSearch pour l'optimisation des hyperparamètres.
+
+Fonctionnement :
+- Charge les données à partir d'un fichier JSON (`data_90.txt`) contenant les tweets et leurs labels.
+- Nettoie les tweets en supprimant les URLs, mentions, hashtags, ponctuation et chiffres.
+- Utilise TF-IDF pour transformer les tweets en représentations numériques.
+- Recherche des meilleurs hyperparamètres pour la vectorisation TF-IDF et le classificateur MultinomialNB avec GridSearchCV.
+- Entraîne le modèle avec les meilleures configurations d'hyperparamètres et évalue les performances sur les données d'entraînement.
+- Sauvegarde le meilleur modèle sous forme de fichier `.joblib` pour une réutilisation future.
+
+À utiliser avec : `python classification_nb.py`
+
+Bibliothèques nécessaires : pip install pandas scikit-learn joblib stop-words
+"""
+
+
 # Imports des bibliothèques nécessaires
 import json
 import re
@@ -46,7 +63,7 @@ def load_data_dict(filepath):
 # Bloc principal
 if __name__ == "__main__":
     # Chargement des données
-    df = load_data_dict("data_90.txt")
+    df = load_data_dict("Sentimental_analysis/apprentissage/NaiveBayes/data_90.txt")
 
     # Texte et étiquettes (à adapter selon la structure du fichier)
     X_train = df['tweet']  # Pour les avis iPhone : remplacer par df['text_avis']

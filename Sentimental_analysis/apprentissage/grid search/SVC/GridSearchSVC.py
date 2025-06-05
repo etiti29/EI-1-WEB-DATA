@@ -1,3 +1,20 @@
+
+"""
+Script de classification de texte par SVM avec GridSearch pour l'optimisation des hyperparamètres.
+
+Fonctionnement :
+- Charge les données d'entraînement et de test à partir de fichiers JSON (`data_90.txt` pour l'entraînement et `data_test.txt` pour le test).
+- Vectorise les tweets avec TF-IDF pour obtenir des représentations numériques.
+- Utilise **GridSearchCV** pour optimiser les hyperparamètres du modèle SVC (Support Vector Classifier).
+- Entraîne le modèle avec les meilleures configurations d'hyperparamètres et évalue les performances sur les données de test.
+- Sauvegarde le meilleur modèle sous forme de fichier `.joblib` pour une réutilisation future.
+
+À utiliser avec : `python classification_svm.py`
+
+Bibliothèques nécessaires : pip install pandas scikit-learn joblib
+"""
+
+
 import json
 import pandas as pd
 from sklearn import svm
@@ -13,7 +30,7 @@ import os  # Pour gérer la création de répertoire
 
 # Charger les données
 # Charger les données à partir du fichier JSON
-with open('data_traité/data20_etiq.txt', encoding='utf-8') as f:
+with open('Sentimental_analysis/apprentissage/NaiveBayes/data_90.txt', encoding='utf-8') as f:
     data = json.load(f)
 
 

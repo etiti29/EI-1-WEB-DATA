@@ -1,3 +1,21 @@
+"""
+Script de classification de texte par **Random Forest** avec **GridSearch** pour l'optimisation des hyperparamètres.
+
+Fonctionnement :
+- Charge les données à partir d'un fichier JSON (`data20_etiq.txt`) contenant les tweets et leurs labels.
+- Crée un vocabulaire à partir des mots présents dans les tweets.
+- Utilise un RandomForestClassifier pour classifier les tweets en fonction de leur sentiment.
+- Effectue une recherche des meilleurs hyperparamètres avec GridSearchCV (n_estimators, max_depth, min_samples_split, etc.).
+- Entraîne le modèle avec les meilleures configurations d'hyperparamètres et évalue les performances sur les données d'entraînement.
+- Sauvegarde le meilleur modèle sous forme de fichier `.joblib` pour une réutilisation future.
+
+À utiliser avec : `python classification_rf.py`
+
+Bibliothèques nécessaires : pip install pandas scikit-learn joblib numpy
+"""
+
+
+
 import numpy as np
 import json
 from sklearn.ensemble import RandomForestClassifier
@@ -68,7 +86,7 @@ def load_data(filepath):
 
 if __name__ == "__main__":
     # Charger données
-    fichier = "data_traité/data20_etiq.txt"  # modifie le chemin si besoin
+    fichier = "Sentimental_analysis\Twitter\data\data_traité\data20_etiq.txt"  # modifie le chemin si besoin
     X, y, data_dict = load_data(fichier)
 
     # Construire vocabulaire
