@@ -1,3 +1,18 @@
+"""
+Script d'étiquetage automatique des tweets par analyse lexicale et syntaxique.
+
+Fonctionnement :
+- Utilise un pipeline scikit-learn avec un nettoyage de texte personnalisé, une vectorisation TF-IDF, et un classificateur Naive Bayes.
+- Le nettoyage inclut la suppression des URLs, mentions, hashtags, ponctuation, et chiffres.
+- Le modèle est entraîné sur un jeu de données étiqueté et évalue les tweets en fonction de leur sentiment (positif, neutre, négatif).
+- Le modèle utilise une combinaison de stopwords en français et en anglais pour la vectorisation TF-IDF.
+
+À lancer avec : `python etiquetage_sentiment.py`
+
+Bibliothèques nécessaires :
+pip install pandas scikit-learn stop-words
+"""
+
 # Imports des bibliothèques nécessaires
 import json
 import re
@@ -41,7 +56,7 @@ def load_data_dict(filepath):
 
 if __name__ == "__main__":
     # Chargement des données d'apprentissage (70 %)
-    df = load_data_dict(r'C:\Users\sarae\Desktop\Clean ST4\EI_1_WEB_DATA\Sentimental_analysis\Twitter\data\data70_etiq.txt') #à changer par avis_train pour Iphone
+    df = load_data_dict('Sentimental_analysis\Twitter\data\data_traité\data70_etiq.txt') #à changer par avis_train pour Iphone
     X_train = df['tweet']
     y_train = df['label'].str.lower()  # Normalisation des étiquettes
 
@@ -76,4 +91,4 @@ def test(fichier):
 
 
 # Évaluation du modèle sur les 30 % restants (fichier de test)
-test(r"C:\Users\sarae\Desktop\Clean ST4\EI_1_WEB_DATA\Sentimental_analysis\Twitter\data\data10_etiq.txt") #à changer par avis_validation pour Iphone
+test('Sentimental_analysis\Twitter\data\data_traité\data10_etiq.txt') #à changer par avis_validation pour Iphone
