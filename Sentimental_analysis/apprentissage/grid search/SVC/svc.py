@@ -1,3 +1,20 @@
+"""
+Script d’étiquetage automatique des avis par classification de texte avec SVC.
+
+Fonctionnement :
+- Charge les données d'entraînement (`data70_etiq.txt`) et de test (`data10_etiq.txt`) à partir de fichiers JSON.
+- Vectorise les textes en utilisant TF-IDF pour obtenir des représentations numériques.
+- Entraîne un modèle de classification SVC sur les données d'entraînement.
+- Évalue le modèle sur les données de test, calcule l'accuracy, et génère un rapport de classification ainsi qu'une matrice de confusion.
+- Sauvegarde le modèle entraîné sous forme de fichier `.joblib` pour une utilisation future.
+
+À lancer avec : `python etiquetage_texte.py`
+
+Bibliothèques nécessaires :
+pip install pandas scikit-learn joblib
+"""
+
+
 import json
 import pandas as pd
 from sklearn import svm
@@ -8,11 +25,11 @@ import os  # Pour gérer la création de répertoire
 
 
 # Charger les données d'entraînement (data70_etiq.txt)
-with open('data_traité/data70_etiq.txt', encoding='utf-8') as f:
+with open('Sentimental_analysis\Twitter\data\data_traité\data70_etiq.txt', encoding='utf-8') as f:
     data_train = json.load(f)
 
-# Charger les données de test (data10_etiq.txt)
-with open('data_traité/data10_etiq.txt', encoding='utf-8') as f:
+# Charger les données de test ou validation (data20_etiq.txt ou data10_etiq.txt)
+with open('Sentimental_analysis\Twitter\data\data_traité\data10_etiq.txt', encoding='utf-8') as f:
     data_test = json.load(f)
 
 
