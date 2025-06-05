@@ -62,19 +62,4 @@ II. Product satisfaction (iphone)
         pip install pandas scikit-learn
 
 
-    Etiquetage :
-        Le fichier etiquetage_iphone.py permet d’étiqueter automatiquement des avis clients en français (positif, neutre, négatif) à partir d’un lexique pondéré et d’une analyse syntaxique avec spaCy.
-        Il se lance avec la commande : python etiquetage_iphone.py
-        Bibliothèques nécessaires :
-        pip install spacy scikit-learn
-        python -m spacy download fr_core_news_sm
-
-    Apprentissage : 
-        On applique les 3 GridSearch à "avis_train_text.txt" et on obtient les bons paramètres à appliquer. 
-        Ensuite, on vérifie avec le dataset de validation l'accuracy avec les bon paramètres sur : "naivesbayes.py", "random_forest.py", "SVC.py". 
-
-                
-
-
-
-
+    Etiquetage : 

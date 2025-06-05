@@ -3,7 +3,9 @@
 from stanfordcorenlp import StanfordCoreNLP
 import json
 from langdetect import detect
-from Sentimental_analysis.Twitter.data.pre_traitement import read_saved_tweets,save_tweets,extract_twitter_data
+from EI_1_WEB_DATA.Sentimental_analysis.Twitter.data.pre_traitement.py import read_saved_tweets, save_tweets, extract_twitter_data
+
+
 
 # Chemin vers les fichiers CoreNLP
 corenlp_path = './stanford-corenlp-4.5.9'
