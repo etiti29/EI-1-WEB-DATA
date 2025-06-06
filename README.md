@@ -132,7 +132,8 @@ II. Product satisfaction (iphone)
 
     Etiquetage : 
         Sentimental_analysis\Iphone\etiquetage\etiquetage_iphone.py
-         1. Test de l'algo d'etiquetage : unhashtaguer ligne 88 (le test ne se fait que sur 40 avis pour en selectionner plus cf ligne 74 et 75 en fin de ligne)
-         2. Pour tester sur un avis en particulier unhashtaguer ligne 89 et mettez la phrase voulue en argument
+        (penser à modifier ligne 6 pour passer de tweets à avis iphone)
+         1. Test de l'algo d'etiquetage : unhashtaguer ligne 83 (le test ne se fait que sur 40 avis pour en selectionner plus cf ligne 74 et 75 en fin de ligne)
+         2. Pour tester sur un avis en particulier unhashtaguer ligne 84 et mettez la phrase voulue en argument
 
 

@@ -23,28 +23,23 @@ produit_lexique = {'très': 2, 'heureux' : 1,'heureuse' : 1,'latéral': '0', 'Bo
 
 # Note : Le lexique ci-dessus est un exemple simplifié. Il doit être enrichi pour une utilisation réelle.
 def analyse(phrase):
-    """
-    Analyse syntaxique et sémantique d’une phrase pour calculer un score de sentiment.
-    Retourne : 'positif', 'neutre' ou 'négatif'.
-    """
     nlp = spacy.load("fr_core_news_sm")
     doc = nlp(phrase)
-    score = 0
-    i = 0
+    score=0
+    i=0
+    for token in doc :
+        if token.dep_ not in ["det"]:
+            if token.lemma_ in produit_lexique and float(produit_lexique[token.lemma_])!=0:  
+                score+=float(produit_lexique[token.lemma_])
+                i+=1
+                if token.head.lemma_ in produit_lexique and token.head.lemma != token.lemma and float(produit_lexique[token.head.lemma_])!=0: 
+                    if token.head.head.lemma_ in produit_lexique and token.head.head.lemma != token.head.lemma and float(produit_lexique[token.head.head.lemma_])!=0:
+                        i+=1
+                    else :
+                        i+=1
+                        score+=float(produit_lexique[token.lemma_])*float(produit_lexique[token.head.lemma_])
+    score=score/(i+1)
 
-    for token in doc:
-        if token.dep_ not in ["det"]:  # Ignore les déterminants
-            lemma = token.lemma_
-            if lemma in produit_lexique and float(produit_lexique[lemma]) != 0:
-                score += float(produit_lexique[lemma])
-                i += 1
-
-                head_lemma = token.head.lemma_
-                if head_lemma in produit_lexique and head_lemma != lemma and float(produit_lexique[head_lemma]) != 0:
-                    i += 1
-                    score += float(produit_lexique[lemma]) * float(produit_lexique[head_lemma])
-
-    score = score / (i + 1)
 
     if score > 0.3:
         return "positif"
@@ -86,4 +81,4 @@ def test(fichier):
 
 # Lancer un test sur fichier JSON quelconque.
 #test("Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_validation.txt")
-#print(analyse("Bonjour, je suis très satisfait de mon nouvel iPhone !"))
+#print(analyse("Vraiment déçu ne pas acheter, il ne fonctionne pas, la batterie est morte et l'écran est fissuré. J'ai perdu mon argent !"))

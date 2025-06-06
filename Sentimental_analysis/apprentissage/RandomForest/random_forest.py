@@ -3,7 +3,7 @@ import json
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, accuracy_score
 import joblib
-
+texte="text_avis"  #mettre tweet pour le cas des tweets
 fichier_entrainement="Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_train.txt"
 # pour le cas des tweets on peut utiliser le fichier Sentimental_analysis/Twitter/data/data_traité/data70_etiq.txt
 
@@ -20,7 +20,7 @@ def vocabulaire(data):
     voc={}                  
     i=0
     for content in data.values():
-        mots=content['text_avis'].split()
+        mots=content[texte].split()
         for k in range(len(mots)):
             if mots[k] in voc.keys():
                 if mots[k] not in mots[:k-1]:
@@ -56,7 +56,7 @@ voc=vocabulaire(data)
 
 # Entraîne le modèle Random Forest sur les données d'entraînement et sauvegarde le modèle
 def fit(fichier):
-    x_train=[vectorisation(content["text_avis"],voc,data) for content in data.values()]
+    x_train=[vectorisation(content[texte],voc,data) for content in data.values()]
     y_train=[content["label"] for content in data.values()]
     rf_classifier = RandomForestClassifier(n_estimators=200, random_state=42,max_depth=None , max_features="sqrt",min_samples_leaf=1,min_samples_split=5)
     rf_classifier.fit(x_train, y_train)
@@ -68,7 +68,7 @@ def test(fichier):
         data_test = json.load(file)
     # Convertir les clés en int
     data_test = {int(key): value for key, value in data_test.items()}
-    x_test=[vectorisation(content["text_avis"],voc,data_test) for content in data_test.values()]
+    x_test=[vectorisation(content[texte],voc,data_test) for content in data_test.values()]
     y_test=[content["label"] for content in data_test.values()]
     y_pred = rf_classifier.predict(x_test)
     print("Accuracy:", accuracy_score(y_test, y_pred))
@@ -81,8 +81,8 @@ def test(fichier):
 
 rf_classifier = joblib.load('Sentimental_analysis/apprentissage/RandomForest/random_forest_model.joblib')
 
-#fit(fichier_entrainement)
-#test("Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_validation.txt")
+fit(fichier_entrainement)
+test("Sentimental_analysis/Iphone/scrapping_iphone/AVIS TXT/avis_validation.txt")
 # pour le cas des tweets on peut utiliser le fichier Sentimental_analysis/Twitter/data/data_traité/data10_etiq.txt
 
 
