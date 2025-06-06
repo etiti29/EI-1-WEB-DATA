@@ -35,7 +35,7 @@ I. Sentimental analysis twitter
 
 
         Stanford : 
-        
+
         Le modèle Stanford CoreNLP utilise une analyse linguistique classique basée sur des règles et des arbres syntaxiques pour extraire le sentiment des textes.
 
         Il faut installer le package sur le lien https://stanfordnlp.github.io/CoreNLP/download.html puis télécharger le modèle français pour pouvoir gérer à la fois les textes en abglais et en français.
@@ -54,7 +54,7 @@ I. Sentimental analysis twitter
     Nous avons eu recours à trois algorithmes différents pour réaliser l'aprentissage et la sentimental analysis. 
 
     Random Forest :
-        - random_forest.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\random_forest.py)
+        - random_forest.py (Sentimental_analysis\apprentissage\RandomForest\random_forest.py)
         1. Pour fit le modèle unhashtaguer ligne 84 et préciser le nom du fichier d'entrainement ligne 7.
         2. Pour tester le modele unhashtaguer ligne 85 et préciser le nom du fichier de validation
         3. pour tester vous même le modele sur un exemple unhashtaguer ligne 91 à 93 et préciser dans la variable tweet votre exemple 
@@ -64,7 +64,7 @@ I. Sentimental analysis twitter
 
 
     NaiveBayes :
-        - naivebayes.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\NaiveBayes\naivebayes.py):
+        - naivebayes.py (Sentimental_analysis\apprentissage\NaiveBayes\naivebayes.py):
         Ce script Python effectue une analyse de sentiment sur des tweets ou des textes en utilisant un modèle de classification basé sur la méthode Naive Bayes. Le pipeline scikit-learn se compose des étapes suivantes :
         1. Nettoyage du texte: Suppression des URLs, mentions, hashtags, ponctuation et chiffres.
         2. Vectorisation TF-IDF : Transformation des textes en vecteurs numériques.
@@ -75,7 +75,7 @@ I. Sentimental analysis twitter
 
 
     SVC : 
-        - svc.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py): 
+        - svc.py (Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py): 
         Ce script Python effectue une analyse de sentiment sur des tweets ou des textes en utilisant un modèle de classification basé sur la méthode SVC (Support Vector Classification). Le pipeline scikit-learn se compose des étapes suivantes :
 
         1. Chargement des données : Chargement des données d'entraînement (`data70_etiq.txt`) et de test (`data10_etiq.txt`) depuis des fichiers JSON.
@@ -89,9 +89,9 @@ I. Sentimental analysis twitter
 
     GridSearch : 
         L'outil GridSearch a été utilisé sur les trois algorithmes d'apprentissage afin de comparer les performances de ces derniers.
-        - GridSearchRF.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\grid search\SVC\GridSearchSVC.py)
-        - GridSearchNB.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\NaiveBayes\GridSearchNB.py)
-        - GridSearchSVC.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py)
+        - GridSearchRF.py (Sentimental_analysis\apprentissage\grid search\SVC\GridSearchSVC.py)
+        - GridSearchNB.py (Sentimental_analysis\apprentissage\NaiveBayes\GridSearchNB.py)
+        - GridSearchSVC.py (Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py)
 
         Fonctionnement :
         - Utilise GridSearchCV pour ajuster les hyperparamètres des modèles suivants :
