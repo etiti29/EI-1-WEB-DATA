@@ -5,15 +5,16 @@ Sentimental analysis
 Summary : 
 I. Sentimental analysis twitter
 II. Product satisfaction (iphone)
+III. Informations supplémentaires
  
 ---------------------------------------------------------------
 Faire cd EI_1_WEB_DATA avant de run les codes. 
 
 I. Sentimental analysis twitter
-    Etiquetage : Trois méthodes différentes ont été utilisées afin de réaliser l'étiquetage
+    Etiquetage : Deux méthodes différentes ont été utilisées afin de réaliser l'étiquetage
         - à la main selon des règles établies en prenant en compte la base de données
         - avec l'algorithme Stanford
-        - avec VADER
+    
 
         A la main : 
         Deux algorithmes se trouvant dans Twitter/etiquetage
@@ -34,7 +35,8 @@ I. Sentimental analysis twitter
 
 
         Stanford : 
-        Ce script Python permet d'effectuer [préciser la fonctionnalité principale du fichier]. Il utilise plusieurs bibliothèques populaires pour manipuler et analyser les données, tout en offrant des fonctionnalités telles que [préciser des fonctionnalités spécifiques].
+        
+        Le modèle Stanford CoreNLP utilise une analyse linguistique classique basée sur des règles et des arbres syntaxiques pour extraire le sentiment des textes.
 
         Il faut installer le package sur le lien https://stanfordnlp.github.io/CoreNLP/download.html puis télécharger le modèle français pour pouvoir gérer à la fois les textes en abglais et en français.
         
@@ -43,11 +45,7 @@ I. Sentimental analysis twitter
         pip install numpy pandas matplotlib scipy scikit-learn
         pip install stanfordcorenlp
         pip install langdetect
-
-
-
-        VADER :
-       
+     
 
 
 
@@ -56,14 +54,17 @@ I. Sentimental analysis twitter
     Nous avons eu recours à trois algorithmes différents pour réaliser l'aprentissage et la sentimental analysis. 
 
     Random Forest :
-        C:\Users\etien\Documents\etudes\CS\EI DATA WEB\EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\random_forest.py
+        - random_forest.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\random_forest.py)
         1. Pour fit le modèle unhashtaguer ligne 84 et préciser le nom du fichier d'entrainement ligne 7.
         2. Pour tester le modele unhashtaguer ligne 85 et préciser le nom du fichier de validation
         3. pour tester vous même le modele sur un exemple unhashtaguer ligne 91 à 93 et préciser dans la variable tweet votre exemple 
 
+        Avant d'exécuter ce script, il est nécessaire d'installer les bibliothèques suivantes : pip install numpy pandas scikit-learn joblib
+
+
 
     NaiveBayes :
-        - naivebayes.py :
+        - naivebayes.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\NaiveBayes\naivebayes.py):
         Ce script Python effectue une analyse de sentiment sur des tweets ou des textes en utilisant un modèle de classification basé sur la méthode Naive Bayes. Le pipeline scikit-learn se compose des étapes suivantes :
         1. Nettoyage du texte: Suppression des URLs, mentions, hashtags, ponctuation et chiffres.
         2. Vectorisation TF-IDF : Transformation des textes en vecteurs numériques.
@@ -74,8 +75,8 @@ I. Sentimental analysis twitter
 
 
     SVC : 
-        - svc.py : 
-        Ce script Python effectue une analyse de sentiment sur des tweets ou des textes en utilisant un modèle de classification basé sur la méthode **LinearSVC** (Support Vector Classification). Le pipeline scikit-learn se compose des étapes suivantes :
+        - svc.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py): 
+        Ce script Python effectue une analyse de sentiment sur des tweets ou des textes en utilisant un modèle de classification basé sur la méthode SVC (Support Vector Classification). Le pipeline scikit-learn se compose des étapes suivantes :
 
         1. Chargement des données : Chargement des données d'entraînement (`data70_etiq.txt`) et de test (`data10_etiq.txt`) depuis des fichiers JSON.
         2. Vectorisation TF-IDF : Transformation des textes en vecteurs numériques en utilisant `TfidfVectorizer`.
@@ -88,13 +89,13 @@ I. Sentimental analysis twitter
 
     GridSearch : 
         L'outil GridSearch a été utilisé sur les trois algorithmes d'apprentissage afin de comparer les performances de ces derniers.
-        - GridSearchRF.py
-        - GridSearchNB.py
-        - GridSearchSVC.py
+        - GridSearchRF.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\grid search\SVC\GridSearchSVC.py)
+        - GridSearchNB.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\NaiveBayes\GridSearchNB.py)
+        - GridSearchSVC.py (EI_1_WEB_DATA\Sentimental_analysis\apprentissage\RandomForest\GridSearchRF.py)
 
         Fonctionnement :
         - Utilise GridSearchCV pour ajuster les hyperparamètres des modèles suivants :
-            1. SVM (Support Vector Machine)** : Optimisation des paramètres `C`, `kernel`, et `gamma`.
+            1. SVM (Support Vector Machine) : Optimisation des paramètres `C`, `kernel`, et `gamma`.
             2. Naive Bayes : Recherche des meilleurs paramètres pour la vectorisation TF-IDF et le classifieur MultinomialNB.
             3. Random Forest: Recherche des meilleurs hyperparamètres pour le classificateur RandomForestClassifier.
         - Chaque modèle est évalué sur un jeu de données de test pour déterminer l'accuracy, générer un rapport de classification et afficher la matrice de confusion.
@@ -139,3 +140,8 @@ II. Product satisfaction (iphone)
          2. Pour tester sur un avis en particulier unhashtaguer ligne 89 et mettez la phrase voulue en argument
 
 
+III. Informations supplémentaires
+
+    - Bin regroupe des fichiers sur lesquels nous avons travaillé et que nous avons préféré garder au cas ou un autre fichier venait à encourir un dysfonctionnement
+
+    - LinearSVC_Model et SVM_Model regroupe les données d'apprentissage de svc.py et GridSearchSVC.py (les autres algorithmes d'apprentissage stockent également leur données mais directement dans leurs dossiers respectifs)
